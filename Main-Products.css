@@ -2,12 +2,17 @@
 nav{
   background-color: #379E18;
   height: 100px;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', sans-serif !important;
   color: white;
 }
 
+.nav-link{
+  color: white !important;
+  background-color: #379E18 !important;
+}
 body{
   overflow-y: hidden;
+  
 }
 .reviewer-content{
     position: absolute;
