@@ -95,8 +95,8 @@
   
                       <!-- Navbar Login-->
                       <li class="ms-1 d-none d-lg-inline-block  ">
-                          <a class="nav-link text-light" href="./login.html">
-                              Account
+                          <a class="nav-link text-light" href="login.php">
+                              Login
                           </a>
                       </li>
                       <!-- /Navbar Login-->
