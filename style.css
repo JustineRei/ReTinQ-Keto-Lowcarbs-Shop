@@ -77,29 +77,43 @@ nav{
   }
 
   .container{
+    
     padding: 5% ;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
   }
 
   .content-2{
     font-size:40pt;
     padding: 0px 0px;
     color: #96d27b;
+    
   }
 
   .content-3{
     font-size: 15pt;
-    text-align: left;
+    text-align: justify;
+    
   }
 
   .content-4{
-    text-align: left;
+    text-align: justify;
     font-size: 16pt;
     font-weight: 200;
   }
 
   .container-2{
+    background: url('images/watercolour_green_background.jpg');
     height: 80vh;
   }
+  .cards{
+    border-radius: 20%;
+  }
+  .cards:hover{
+      transform: translateY(-5px);
+      color: #96d27b;
+    }
+  
 
   
