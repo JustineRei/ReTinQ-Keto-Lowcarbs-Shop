@@ -36,10 +36,10 @@
           <input type="radio" name="slider" id="close-btn">
           <ul class="nav-links">
             <label for="close-btn" class="btn close-btn"><i class="fas fa-times"></i></label>
-            <li><a href="#">home</a></li>
-            <li><a href="#">about</a></li>
+            <li><a href="index.php">home</a></li>
+            <li><a href="about-page.php">about</a></li>
             <li>
-              <a href="Main-Products.html" class="desktop-item">shop</a>
+              <a href="Main-Products.php" class="desktop-item">shop</a>
               <input type="checkbox" id="showMega">
               <label for="showMega" class="mobile-item">shop</label>
               <div class="mega-box">

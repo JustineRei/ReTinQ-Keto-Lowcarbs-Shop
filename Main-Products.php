@@ -53,7 +53,7 @@
               <div class="d-flex justify-content-between align-items-center flex-wrap">
   
                   <!-- Logo-->
-                  <a class="navbar-brand fw-bold fs-3 m-0 p-0 flex-shrink-0 order-0" href="./index.html">
+                  <a class="navbar-brand fw-bold fs-3 m-0 p-0 flex-shrink-0 order-0" href="index.php">
                       <div class="d-flex align-items-center">
                           <img src="images\logo.png">
                       </div>
@@ -136,12 +136,12 @@
                       <!-- Menu-->
                       <ul class="navbar-nav mx-auto mb-2 mb-lg-0  ">
                         <li class="nav-item">
-                          <a class="nav-link text-white" href="index.html" role="button">
+                          <a class="nav-link text-white" href="index.php" role="button">
                             Home
                           </a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link text-white" href="./category.html" role="button">
+                          <a class="nav-link text-white" href="about-page.php" role="button">
                             About Us
                           </a>
                         </li>
@@ -160,7 +160,7 @@
                                                 <div class="col">
                                                     <h6 class="dropdown-heading">Breads and Pastries</h6>
                                                     <ul class="list-unstyled">
-                                                        <li class="dropdown-list-item"><a class="dropdown-item" href="Products\Cakes.html" target="displayContent">Cakes</a></li>
+                                                        <li class="dropdown-list-item"><a class="dropdown-item" href="Products\Cakes.php" target="displayContent">Cakes</a></li>
                                                         
                                                         
                                                        
@@ -174,9 +174,9 @@
                                                 <div class="col">
                                                     <h6 class="dropdown-heading">General Goods</h6>
                                                     <ul class="list-unstyled">
-                                                        <li class="dropdown-list-item"><a class="dropdown-item" href="Products\Meat.html" target="displayContent">Meat</a></li>
+                                                        <li class="dropdown-list-item"><a class="dropdown-item" href="Products\Meat.php" target="displayContent">Meat</a></li>
                                                         
-                                                        <li class="dropdown-list-item"><a class="dropdown-item" href="Products\Sauce.html" target="displayContent">sauces</a></li>
+                                                        <li class="dropdown-list-item"><a class="dropdown-item" href="Products\Sauce.php" target="displayContent">sauces</a></li>
                                                         <li class="dropdown-list-item"><a class="dropdown-item dropdown-link-all" href="./category.html">View All</a></li>
                                                     </ul>
                                                 </div>
@@ -186,7 +186,7 @@
                                                 <div class="d-none d-xxl-block col">
                                                     <h6 class="dropdown-heading">Snacks</h6>
                                                     <ul class="list-unstyled">
-                                                        <li class="dropdown-list-item"><a class="dropdown-item" href="Products\Dairy.html" target="displayContent">Desserts</a></li>
+                                                        <li class="dropdown-list-item"><a class="dropdown-item" href="Products\Dairy.php" target="displayContent">Desserts</a></li>
                                                         <li class="dropdown-list-item"><a class="dropdown-item dropdown-link-all" href="./category.html">View All</a></li>
                                                     </ul>
                                                 </div>
@@ -301,7 +301,7 @@
 
 
 <section class="reviewer-content ">
-    <iframe src="Products\All_Products.html" name="displayContent" class="iframe-Content-Display">
+    <iframe src="Products\All_Products.php" name="displayContent" class="iframe-Content-Display">
 
 
     </iframe>
