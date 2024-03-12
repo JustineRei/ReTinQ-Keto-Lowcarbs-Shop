@@ -162,9 +162,9 @@
       
         <div class="container">
             <div class="row no-gutters">
-                <div class="col-12 col-sm-6 col-md-8"><div class="content-2">ReTinQ Keto Shop</div>
+                <div class="col-sm-12 col-md-6"><div class="content-2">ReTinQ Keto Shop</div>
                 <div class="content-3">Shop keto products at RETINQ Keto online.</div></div>
-                <div class="col-6 col-md-4"> <div class="content-4">We offer a wide range of keto and low-carb supplies from meals, essentials, pastries, drinks and frozen goods.</div></div>
+                <div class="col-sm-12 col-md-6"> <div class="content-4">We offer a wide range of keto and low-carb supplies from meals, essentials, pastries, drinks and frozen goods.</div></div>
               </div>
             </div>
        
