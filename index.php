@@ -138,23 +138,25 @@
 <!--UNLI BANNER-->
 <div class="logos">
   <div class="logos-slide">
+    <img src="images\banner.png" />
     <img src="images\banner1.png" />
     <img src="images\banner2.png" />
-    <img src="images\banner3.png" />
+    <img src="images\banner.png" />
     <img src="images\banner1.png" />
     <img src="images\banner2.png" />
-    <img src="images\banner3.png" />
+    <img src="images\banner.png" />
     <img src="images\banner1.png" />
   </div>
 
   <div class="logos-slide">
+    <img src="images\banner2.png" />
+    <img src="images\banner.png" />
     <img src="images\banner1.png" />
     <img src="images\banner2.png" />
-    <img src="images\banner3.png" />
+    <img src="images\banner.png" />
     <img src="images\banner1.png" />
     <img src="images\banner2.png" />
-    <img src="images\banner3.png" />
-    <img src="images\banner1.png" />
+    <img src="images\banner.png" />
   </div>
 </div>
 <!--/UNLI BANNER-->
@@ -175,34 +177,34 @@
             <div class="container">
                 <h1>Categories</h1>
                 <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
-                  <div class="col shadow-lg p-3 mb-5 bg-white rounded">
+                  <div class="cards col shadow-lg p-3 mb-5 bg-white rounded" style="margin-right:67px">
                         <div class="card pl-" style="width: 18rem;">
-                        <img src="images\meat-icons.png" class="card-img-top">
+                        <img src="images\bread.png" class="card-img-top">
                         <div class="card-body">
                           <p class="card-text text-center h2">Bread and Pastries</p>
                       </div></div>
                   </div>
-                  <div class="col shadow-lg p-3 mb-5 bg-white rounded">
+                  <div class="cardsg col shadow-lg p-3 mb-5 bg-white rounded" style="margin-right:67px">
                         <div class="card" style="width: 18rem;">
-                            <img src="images\sauce-icon.png" class="card-img-top" alt="...">
+                            <img src="images\general-goods.png" class="card-img-top" alt="...">
                             <div class="card-body">
                               <p class="card-text text-center h2">General Goods</p>
                             </div>
                           </div>
                     
                   </div>
-                  <div class="col shadow-lg p-3 mb-5 bg-white rounded">
+                  <div class="cardss col shadow-lg p-3 mb-5 bg-white rounded" style="margin-right:67px">
                         <div class="card" style="width: 18rem;">
-                            <img  src="images\dairy-icon.png" class="card-img-top" alt="...">
+                            <img  src="images\snacks.png" class="card-img-top" alt="...">
                             <div class="card-body">
                               <p class="card-text text-center h2">Snacks</p>
                             </div>
                           </div>
                     
                   </div>
-                  <div class="col shadow-lg p-3 mb-5 bg-white rounded">
+                  <div class="cardsm col shadow-lg p-3 mb-5 bg-white rounded">
                         <div class="card" style="width: 18rem;">
-                            <img src="images\cake-icon.png" class="card-img-top" alt="...">
+                            <img src="images\miscellanous.png" class="card-img-top" alt="...">
                             <div class="card-body">
                               <p class="card-text text-center h3">Miscellaneous</p>
                             </div>

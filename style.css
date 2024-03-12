@@ -110,9 +110,30 @@ body{
     border-radius: 20%;
   }
   .cards:hover{
-      transform: translateY(-5px);
-      color: #96d27b;
+      transform: translateY(-5px) ;
+      transition: transform 0.7s ease;
+      color: #5D3D2F;
+      border: #5D3D2F solid 1.5px;
     }
+    .cardsg:hover{
+      transform: translateY(-5px) ;
+      transition: transform 0.7s ease;
+      color: #8C52FF;
+      border: #8C52FF solid 1.5px;
+    }
+    .cardss:hover{
+      transform: translateY(-5px) ;
+      transition: transform 0.7s ease;
+      color: #FA8072;
+      border: #FA8072 solid 1.5px;
+    }
+    .cardsm:hover{
+      transform: translateY(-5px) ;
+      transition: transform 0.7s ease;
+      color: #5DC63D;
+      border: #5DC63D solid 1.5px;
+    }
+    
   
 
   
