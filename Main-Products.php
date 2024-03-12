@@ -278,7 +278,7 @@
                           </li>
                           
                           <li class="nav-item">
-                            <a class="nav-link text-white" href="./category.html" role="button">
+                            <a class="nav-link text-white" href="contact.php" role="button">
                               Contact us
                             </a>
                           </li>
