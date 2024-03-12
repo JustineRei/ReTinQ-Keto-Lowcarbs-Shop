@@ -86,32 +86,24 @@ nav{
   }
 
   .container{
-    display: flex;
-    flex-direction: row; 
-    width: 100%;
     height: 50vh;
-    margin-top: 0%;
-    padding: 0px 40px;
+    padding: 5% ;
+    flex-direction: column;
   }
 
   .content-2{
-    font-size: 40pt;
-    text-align: left;
-    padding: 20px 40px;
+    font-size:40pt;
+    padding: 0px 0px;
+    color: #96d27b;
   }
 
   .content-3{
-    font-size: 23pt;
+    font-size: 15pt;
     text-align: left;
   }
 
   .content-4{
     text-align: left;
-  }
-
-  .content-5{
     font-size: 16pt;
-    text-align: left;
-    padding: 5px 40px;
+    font-weight: 200;
   }
-
