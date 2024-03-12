@@ -187,6 +187,7 @@
                                                     <h6 class="dropdown-heading">Snacks</h6>
                                                     <ul class="list-unstyled">
                                                         <li class="dropdown-list-item"><a class="dropdown-item" href="Products\Dairy.php" target="displayContent">Desserts</a></li>
+                                                        <li class="dropdown-list-item"><a class="dropdown-item" href="Products\Drinks.php" target="displayContent">Drinks</a></li>
                                                         <li class="dropdown-list-item"><a class="dropdown-item dropdown-link-all" href="./category.html">View All</a></li>
                                                     </ul>
                                                 </div>
