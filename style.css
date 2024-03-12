@@ -6,7 +6,18 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+nav{
+  background-color: white;
+  height: 100px;
+  font-family: 'Poppins', sans-serif !important;
+  color: black;
+  box-shadow: 0 2px 2px black;
+}
 
+.nav-link{
+  color: black !important;
+  background-color: white !important;
+}
 body{
     font-family: "Poppins", sans-serif;
     background-repeat: no-repeat;

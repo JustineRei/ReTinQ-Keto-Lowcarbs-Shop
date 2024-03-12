@@ -21,9 +21,7 @@
 
 </head>
 <body>
-
          <!-- Page Content Goes Here -->
-
         <!-- / Top banner -->
         <section class="vh-75 vh-lg-60 container-fluid rounded overflow-hidden" data-aos="fade-in">
             <!-- Swiper Info -->
