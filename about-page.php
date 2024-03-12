@@ -360,6 +360,19 @@
             </div>
         </div>
     </div>
+    <div class="container">
+                          <div class="row justify-content-center">
+                            <div class="col-12 col-md-6 ">
+                              <!-- Correcting the image path as necessary -->
+                              <img class="wifeypic" src="images/wifepic.jpg">
+                              
+                              <div class="owner-text mt-5">
+                                <h5>Cherry Ann Zaragoza <br>Owner, RetinQ KETO SHOP</h5>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+
 
     <!-- Bootstrap JS and jQuery -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
