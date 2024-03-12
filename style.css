@@ -17,12 +17,22 @@ nav{
     height: 100px;
     font-family: 'Poppins', sans-serif !important;
     color: black;
+nav{
+    
+    height: 100px;
+    font-family: 'Poppins', sans-serif !important;
+    color: black;
   }
   
   .nav-link{
     color: black !important;
     background-color: transparent !important;
+  
+  .nav-link{
+    color: black !important;
+    background-color: transparent !important;
   }
+  
   
   @keyframes slide {
     from {
@@ -77,6 +87,7 @@ nav{
   }
 
   .container{
+    padding: 5% ;
     
     padding: 5% ;
     flex-direction: column;
@@ -88,22 +99,33 @@ nav{
     font-size:40pt;
     padding: 0px 0px;
     color: #96d27b;
+    font-size:40pt;
+    padding: 0px 0px;
+    color: #96d27b;
     
   }
 
   .content-3{
+    font-size: 15pt;
+    text-align: left;
     font-size: 15pt;
     text-align: justify;
     
   }
 
   .content-4{
+    text-align: left;
+    font-size: 16pt;
+    font-weight: 200;
     text-align: justify;
     font-size: 16pt;
     font-weight: 200;
   }
 
+
   .container-2{
+    height: 80vh;
+  }
     background: url('images/watercolour_green_background.jpg');
     height: 80vh;
   }
@@ -116,4 +138,5 @@ nav{
     }
   
 
+  
   
