@@ -1,3 +1,6 @@
+<?php include('header.php') ?>
+<!-- Vendor CSS -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,17 +12,16 @@
 <!--Bootstraps-->
 <link href="stylesheet" rel="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-
- <!-- Vendor CSS -->
- <link rel="stylesheet" href="./assets/css/libs.bundle.css" />
+<link rel="stylesheet" href="assets\css\libs.bundle.css" />
 
 <!-- Main CSS -->
-<link rel="stylesheet" href="./assets/css/theme.bundle.css" />
+<link rel="stylesheet" href="assets\css\theme.bundle.css" />
 <link rel="stylesheet" href="style.css">
+ 
 
 </head>
 <body>
-<?php include('header.php') ?>
+
          <!-- Page Content Goes Here -->
 
         <!-- / Top banner -->
@@ -218,9 +220,9 @@
         <!--/Fourth Page-->
     <!-- Theme JS -->
     <!-- Vendor JS -->
-    <script src="./assets/js/vendor.bundle.js"></script>
+    <script src="assets\js\vendor.bundle.js"></script>
     
     <!-- Theme JS -->
-    <script src="./assets/js/theme.bundle.js"></script>
+    <script src="assets\js\theme.bundle.js"></script>
 </body>
 </html>

@@ -1,3 +1,31 @@
+<?php
+   include("Config.php");
+   session_start();
+   
+   if($_SERVER["REQUEST_METHOD"] == "POST") {
+      // username and password sent from form 
+      
+      $myusername = mysqli_real_escape_string($db,$_POST['login-email']);
+      $mypassword = mysqli_real_escape_string($db,$_POST['login-password']); 
+      
+      $sql = "SELECT id FROM users WHERE Username = '$myusername' and Pword = '$mypassword'";
+      $result = mysqli_query($db,$sql);
+      $row = mysqli_fetch_array($result,MYSQLI_ASSOC);
+      
+      $count = mysqli_num_rows($result);
+      
+      // If result matched $myusername and $mypassword, table row must be 1 row
+		
+      if($count == 1) {
+
+         $_SESSION['login_user'] = $myusername;
+         
+         header("location: index.php");
+      }else {
+         $error = "Your Login Name or Password is invalid";
+      }
+   }
+?>
 <!doctype html>
 <html lang="en">
 
@@ -68,23 +96,23 @@
                 </div>
             </a>
             <!-- / Logo-->
-            <div class="shadow-xl p-4 p-lg-5 bg-white">
+            <div class="shadow-xl p-4 p-lg-5 bg-white" >
                 <h1 class="text-center fw-bold mb-5 fs-2">Login</h1>
                
                 <span class="text-muted text-center d-block fw-bolder my-4">OR</span>
-                <form>
+                <form action="" method="post">
                     <div class="form-group">
                       <label class="form-label" for="login-email">Email address</label>
-                      <input type="email" class="form-control" id="login-email" placeholder="name@email.com">
+                      <input type="email" class="form-control" name="login-email" id="login-email" placeholder="name@email.com">
                     </div>
                     <div class="form-group">
-                      <label for="login-password" class="form-label d-flex justify-content-between align-items-center">
+                      <label for="login-password"  class="form-label d-flex justify-content-between align-items-center">
                         Password
                         <a href="./forgotten-password.html" class="text-muted small">Forgot your password?</a>
                       </label>
-                      <input type="password" class="form-control" id="login-password" placeholder="Enter your password">
+                      <input type="password" class="form-control" id="login-password" name="login-password" placeholder="Enter your password">
                     </div>
-                    <button type="submit" class="btn d-block w-100 my-4">Login</button>
+                    <button class="btn d-block w-100 my-4" value="login" name="login">Login</button>
                 </form>
                 <p class="d-block text-center text-muted">New customer? <a class="text-muted" href="./register.html">Sign up for an account</a></p>
             </div>
