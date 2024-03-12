@@ -16,3 +16,23 @@ body,p,h1,h2,h3,h4,h5,h6,button,span,a{
     width: 80%;
     padding-left: 100px;
 }
+.btn{
+    transition: all .5s ease;
+    color: rgb(55, 158, 24,0.8);
+    border: 3px solid rgb(55, 158, 24,0.8);
+    font-family:'Montserrat', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1;
+    font-size: 20px;
+    background-color : transparent;
+    padding: 25px;
+    outline: none;
+    border-radius: 4px;
+}
+.btn:hover{
+
+    background-color: rgb(55, 158, 24,0.8);
+    color: white;
+}
+
