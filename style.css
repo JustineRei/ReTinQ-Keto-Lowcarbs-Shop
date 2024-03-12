@@ -83,6 +83,7 @@ nav{
 
   .content-2{
     font-size:40pt;
+    font-weight: 800;
     padding: 0px 0px;
     color: #96d27b;
   }
@@ -90,6 +91,7 @@ nav{
   .content-3{
     font-size: 15pt;
     text-align: left;
+    font-weight: 500;
   }
 
   .content-4{
@@ -100,6 +102,22 @@ nav{
 
   .container-2{
     height: 80vh;
+  }
+
+
+  @media only screen and (min-width: 350px){
+      .content-2{
+        text-align: center;
+        font-size: 30pt;
+      }
+
+      .content-3{
+        text-align: center;
+      }
+
+      .content-4{
+        text-align: center;
+      }
   }
 
   
