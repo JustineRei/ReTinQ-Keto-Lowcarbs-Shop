@@ -84,7 +84,7 @@
                       </label>
                       <input type="password" class="form-control" id="login-password" placeholder="Enter your password">
                     </div>
-                    <button type="submit" class="btn btn-dark d-block w-100 my-4">Login</button>
+                    <button type="submit" class="btn d-block w-100 my-4">Login</button>
                 </form>
                 <p class="d-block text-center text-muted">New customer? <a class="text-muted" href="./register.html">Sign up for an account</a></p>
             </div>
