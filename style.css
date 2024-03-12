@@ -12,28 +12,6 @@ body{
     background-repeat: no-repeat;
     height: 100vh;
 }
-nav{
-    
-    height: 100px;
-    font-family: 'Poppins', sans-serif !important;
-    color: black;
-nav{
-    
-    height: 100px;
-    font-family: 'Poppins', sans-serif !important;
-    color: black;
-  }
-  
-  .nav-link{
-    color: black !important;
-    background-color: transparent !important;
-  
-  .nav-link{
-    color: black !important;
-    background-color: transparent !important;
-  }
-  
-  
   @keyframes slide {
     from {
       transform: translateX(0);
@@ -125,7 +103,6 @@ nav{
 
   .container-2{
     height: 80vh;
-  }
     background: url('images/watercolour_green_background.jpg');
     height: 80vh;
   }
