@@ -5,12 +5,26 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
+
+  
+}
+nav{
+  background-color: transparent  ;
+  height: 100px;
+  font-family: 'Poppins', sans-serif !important;
+  color: black  ;
 }
 
+.nav-link{
+  color: black !important;
+  background-color: transparent !important;
+  
+}
 body{
     font-family: "Poppins", sans-serif;
     background-repeat: no-repeat;
     height: 100vh;
+    overflow-y:scroll !important  ;
 }
 nav{
     

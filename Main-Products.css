@@ -1,18 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 nav{
-  background-color: #379E18;
+  background-color: white  ;
   height: 100px;
   font-family: 'Poppins', sans-serif !important;
-  color: white;
+  color: black  ;
+  box-shadow: 0px 1px 1px #5DC63D !important;
 }
 
 .nav-link{
-  color: white !important;
-  background-color: #379E18 !important;
-}
-body{
-  overflow-y: hidden;
-  
+  color: black !important;
+  background-color: white !important;
 }
 .reviewer-content{
     position: absolute;
