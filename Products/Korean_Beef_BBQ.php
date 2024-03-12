@@ -103,27 +103,27 @@
                             </div>
                             
                             
-                            <button class="btn btn-dark w-100 mt-4 mb-0 hover-lift-sm hover-boxshadow">Add To Shopping Bag</button>
+                            <button class="btn w-100 mt-4 mb-0 ">Add To Shopping Bag</button>
                         
                             <!-- Product Highlights-->
                                 <div class="my-5">
                                     <div class="row">
                                         <div class="col-12 col-md-4">
                                             <div class="text-center px-2">
-                                                <i class="ri-24-hours-line ri-2x"></i>
-                                                <small class="d-block mt-1">Quick Delivery</small>
+                                                <i class=""><img src="assets\images\products\banners\ketofriendly.png" alt=""></i>
+                                                
                                             </div>
                                         </div>
                                         <div class="col-12 col-md-4">
                                             <div class="text-center px-2">
-                                                <i class="ri-secure-payment-line ri-2x"></i>
-                                                <small class="d-block mt-1">Secure Checkout</small>
+                                                <i class=""><img src="assets\images\products\banners\lowcarbs.png" alt=""></i>
+                                                
                                             </div>
                                         </div>
                                         <div class="col-12 col-md-4">
                                             <div class="text-center px-2">
-                                                <i class="ri-service-line ri-2x"></i>
-                                                <small class="d-block mt-1">Free Returns</small>
+                                                <i class=""><img src="assets\images\products\banners\affordable.png" alt=""></i>
+                                                <small class="d-block mt-1">Affordable</small>
                                             </div>
                                         </div>
                                     </div>
@@ -135,56 +135,34 @@
                                 <div class="accordion-item">
                                   <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                      Product Details
+                                      Product Information
                                     </button>
                                   </h2>
                                   <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionProduct">
                                     <div class="accordion-body">
-                                        <p class="m-0">Made from 100% organic cotton, The Kiikii Osaka Japan T-Shirt was created with everyday use in mind. It features printed graphics and heavyweight fabric for maximum comfort and lifespan.</p>
+                                        <p class="m-0">lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum</p>
                                     </div>
                                   </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h2 class="accordion-header" id="headingTwo">
                                       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Details & Care
+                                        Details
                                       </button>
                                     </h2>
                                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionProduct">
                                       <div class="accordion-body">
                                           <ul class="list-group list-group-flush">
                                               <li class="list-group-item d-flex border-0 row g-0 px-0">
-                                                  <span class="col-4 fw-bolder">Composition</span>
-                                                  <span class="col-7 offset-1">98% Cotton, 2% elastane</span>
+                                                  <span class="col-4 fw-bolder">Details</span>
+                                                  <span class="col-7 offset-1">Keto-Friendly,Low Carb, Sugar Free, Diabetic Friendly</span>
                                               </li>
-                                              <li class="list-group-item d-flex border-0 row g-0 px-0">
-                                                  <span class="col-4 fw-bolder">Care</span>
-                                                  <span class="col-7 offset-1">Professional dry clean only. Do not bleach. Do not iron.</span>
-                                              </li>
+                                              
                                           </ul>
                                       </div>
                                     </div>
                                   </div>        
-                                <div class="accordion-item">
-                                  <h2 class="accordion-header" id="headingThree">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                      Delivery & Returns
-                                    </button>
-                                  </h2>
-                                  <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionProduct">
-                                    <div class="accordion-body">
-                                        <ul class="list-group list-group-flush">
-                                            <li class="list-group-item d-flex border-0 row g-0 px-0">
-                                                <span class="col-4 fw-bolder">Delivery</span>
-                                                <span class="col-7 offset-1">Standard delivery free for orders over $99. Next day delivery $9.99</span>
-                                            </li>
-                                            <li class="list-group-item d-flex border-0 row g-0 px-0">
-                                                <span class="col-4 fw-bolder">Returns</span>
-                                                <span class="col-7 offset-1">30 day return period. See our <a class="text-link-border" href="#">terms & conditions.</a></span>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                  </div>
+                                
                                 </div>
                               </div>
                             <!-- / Product Accordion-->
