@@ -15,30 +15,7 @@
     <!-- Bootstrap CSS -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="about-page.css">
-    <style>
-        body {
-            background-image: url("images/bgpic.png");
-            font-family: "Poppins", sans-serif;
-            background-repeat: no-repeat;
-            background-size: cover;
-        }
-
-        nav{
-       background-color: #379E18;
-       height: 100px;
-      font-family: 'Poppins', sans-serif !important;
-      color: white;
-}
-
-  .nav-link{
-  color: white !important;
-  background-color: #379E18 !important;
-}
-
-      
-
-      
-    </style>
+   
 </head>
 <body>
 
