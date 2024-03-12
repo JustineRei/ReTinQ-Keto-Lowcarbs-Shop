@@ -13,7 +13,7 @@ body{
     height: 100vh;
 }
 nav{
-    background-color: black;
+    
     height: 100px;
     font-family: 'Poppins', sans-serif !important;
     color: black;
@@ -39,7 +39,7 @@ nav{
     background: white;
     white-space: nowrap;
     position: relative;
-    margin-top: 0%;
+    margin-top: 2%;
   }
   
   .logos:before,
@@ -77,7 +77,6 @@ nav{
   }
 
   .container{
-    height: 50vh;
     padding: 5% ;
     flex-direction: column;
   }
@@ -98,3 +97,9 @@ nav{
     font-size: 16pt;
     font-weight: 200;
   }
+
+  .container-2{
+    height: 80vh;
+  }
+
+  
