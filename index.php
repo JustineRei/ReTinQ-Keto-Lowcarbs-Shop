@@ -57,11 +57,11 @@
                   </div>
                   <div
                     class="container position-relative z-index-10 d-flex h-100 align-items-start flex-column justify-content-center">
-                    <p class="title-small text-white opacity-75 mb-0" data-swiper-parallax="-100">Everything You Need</p>
+                    <p class="title-small text-white opacity-75 mb-0" data-swiper-parallax="-100">Keto Cake</p>
                     <h2 class="display-3 tracking-wide fw-bold text-uppercase tracking-wide text-white" data-swiper-parallax="100">
-                      <span class="text-outline-light">Summer</span> Essentials</h2>
+                      <span class="text-outline-light">Caramel</span> Cake For you!</h2>
                     <div data-swiper-parallax-y="-25">
-                      <a href="./category.html" class="btn btn-psuedo text-white" role="button">Shop New Arrivals</a>
+                      <a href="./category.html" class="btn btn-psuedo text-white" role="button">Shop Now!</a>
                     </div>
                   </div>
                 </div>
@@ -76,11 +76,11 @@
                   </div>
                   <div
                     class="container position-relative z-index-10 d-flex h-100 align-items-start flex-column justify-content-center">
-                    <p class="title-small text-white opacity-75 mb-0" data-swiper-parallax="-100">Spring Collection</p>
+                    <p class="title-small text-white opacity-75 mb-0" data-swiper-parallax="-100">Keto Ice Cream</p>
                     <h2 class="display-3 tracking-wide fw-bold text-uppercase tracking-wide text-white" data-swiper-parallax="100">
-                      Adidas <span class="text-outline-light">SS21</span></h2>
+                      <span class="text-outline-light">AVOCADO</span>flavor</h2>
                     <div data-swiper-parallax-y="-25">
-                      <a href="./category.html" class="btn btn-psuedo text-white" role="button">Shop Latest Adidas</a>
+                      <a href="./category.html" class="btn btn-psuedo text-white" role="button">Shop Now</a>
                     </div>
                   </div>
                 </div>
@@ -95,11 +95,11 @@
                   </div>
                   <div
                     class="container position-relative z-index-10 d-flex h-100 align-items-start flex-column justify-content-center">
-                    <p class="title-small text-white opacity-75 mb-0" data-swiper-parallax="-100">Just Do it</p>
+                    <p class="title-small text-white opacity-75 mb-0" data-swiper-parallax="-100">Keto Ice Cream</p>
                     <h2 class="display-3 tracking-wide fw-bold text-uppercase tracking-wide text-white" data-swiper-parallax="100">
-                      Nike <span class="text-outline-light">SS21</span></h2>
+                      <span class="text-outline-light">Matcha</span>Flavor</h2>
                     <div data-swiper-parallax-y="-25">
-                      <a href="./category.html" class="btn btn-psuedo text-white" role="button">Shop Latest Nike</a>
+                      <a href="./category.html" class="btn btn-psuedo text-white" role="button">Shop Now!</a>
                     </div>
                   </div>
                 </div>
@@ -114,11 +114,11 @@
                   </div>
                   <div
                     class="container position-relative z-index-10 d-flex h-100 align-items-start flex-column justify-content-center">
-                    <p class="title-small text-white opacity-75 mb-0" data-swiper-parallax="-100">Look Good Feel Good</p>
+                    <p class="title-small text-white opacity-75 mb-0" data-swiper-parallax="-100">Keto/Lowcarbs Shop</p>
                     <h2 class="display-3 tracking-wide fw-bold text-uppercase tracking-wide text-white" data-swiper-parallax="100">
-                      <span class="text-outline-light">Sustainable</span> Fashion</h2>
+                      <span class="text-outline-light">Keto</span> Friendly</h2>
                     <div data-swiper-parallax-y="-25">
-                      <a href="./category.html" class="btn btn-psuedo text-white" role="button">Why We Are Different</a>
+                      <a href="./category.html" class="btn btn-psuedo text-white" role="button">Shop Now!</a>
                     </div>
                   </div>
                 </div>
@@ -136,25 +136,24 @@
 <!--UNLI BANNER-->
 <div class="logos">
   <div class="logos-slide">
-    <img src="images\banner.png" />
-    <img src="images\banner1.png" />
-    <img src="images\banner2.png" />
-    <img src="images\banner.png" />
-    <img src="images\banner1.png" />
-    <img src="images\banner2.png" />
-    <img src="images\banner.png" />
-    <img src="images\banner1.png" />
+    <img src="images\banner11.png" />
+    <img src="images\banner22.png" />
+    <img src="images\banner33.png" />
+    <img src="images\banner11.png" />
+    <img src="images\banner22.png" />
+    <img src="images\banner33.png" />
+    <img src="images\banner11.png" />
   </div>
 
   <div class="logos-slide">
-    <img src="images\banner2.png" />
-    <img src="images\banner.png" />
-    <img src="images\banner1.png" />
-    <img src="images\banner2.png" />
-    <img src="images\banner.png" />
-    <img src="images\banner1.png" />
-    <img src="images\banner2.png" />
-    <img src="images\banner.png" />
+    <img src="images\banner11.png" />
+    <img src="images\banner22.png" />
+    <img src="images\banner33.png" />
+    <img src="images\banner11.png" />
+    <img src="images\banner22.png" />
+    <img src="images\banner33.png" />
+    <img src="images\banner11.png" />
+>>>>>>> Stashed changes
   </div>
 </div>
 <!--/UNLI BANNER-->
@@ -177,7 +176,9 @@
                 <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
                   <div class="cards col shadow-lg p-3 mb-5 bg-white rounded" style="margin-right:67px">
                         <div class="card pl-" style="width: 18rem;">
+                        <div class="text-center">
                         <img src="images\bread.png" class="card-img-top">
+                        </div>
                         <div class="card-body">
                           <p class="card-text text-center h2">Bread and Pastries</p>
                       </div></div>
