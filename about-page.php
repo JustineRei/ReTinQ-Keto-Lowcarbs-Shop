@@ -17,59 +17,58 @@
     <link rel="stylesheet" href="about-page.css">
 
     <!-- Favicon -->
-  <link rel="apple-touch-icon" sizes="180x180" href="./assets/images/favicon/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="./assets/images/favicon/favicon-16x16.png">
-  <link rel="mask-icon" href="./assets/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
-  <meta name="msapplication-TileColor" content="#da532c">
-  <meta name="theme-color" content="#ffffff">
+    <link rel="apple-touch-icon" sizes="180x180" href="./assets/images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./assets/images/favicon/favicon-16x16.png">
+    <link rel="mask-icon" href="./assets/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
 
-   
 </head>
 <body>
 
 <?php include('header.php') ?>
-    
-    <!-- About Section -->
-    <div class="about-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 mx-auto text-center">
-                    <div class="about-text">
-                        <h1>About us:</h1>
-                        <h2 class="retinq-keto-shop">RETINQ KETO SHOP</h2>
-                        <h4>We offer a wide range of keto and low-carb supplies from meals, essentials, pastries, drinks, and frozen goods. <br><br> You may stay and enjoy your goodies here, too. We have a few tables available. Come and visit us. <br><br> Enjoy eating out without the compromise. All items on the menu are definitely in! Thank you so much for shopping with us!</h4>
-                        <button type="button" class="btn btn-light">SHOP NOW</button>
-                    </div>
+
+<!-- About Section -->
+<div class="about-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 mx-auto col-md-10 text-center">
+                <div class="about-text">
+                    <h1>About us:</h1>
+                    <h2 class="retinq-keto-shop">RETINQ KETO SHOP</h2>
+                    <h4>We offer a wide range of keto and low-carb supplies from meals, essentials, pastries, drinks, and frozen goods. <br><br> You may stay and enjoy your goodies here, too. We have a few tables available. Come and visit us. <br><br> Enjoy eating out without the compromise. All items on the menu are definitely in! Thank you so much for shopping with us!</h4>
+                    <button type="button" class="btn btn-light">SHOP NOW</button>
                 </div>
             </div>
         </div>
     </div>
-    <div class="container">
-                          <div class="row justify-content-center">
-                            <div class="col-12 col-md-6 ">
-                              <!-- Correcting the image path as necessary -->
-                              <img class="wifeypic" src="images/wifepic.jpg">
-                              
-                              <div class="owner-text mt-5">
-                                <h5>Cherry Ann Zaragoza <br>Owner, RetinQ KETO SHOP</h5>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
+</div>
 
+<div class="container">
+    <div class="row justify-content-center align-items-center"> <!-- Center align and vertically center the content -->
+        <div class="col-12 col-md-6 text-center text-md-left"> <!-- Center align text for small screens, left align for medium and large -->
+            <!-- Correcting the image path as necessary -->
+            <img class="wifeypic" src="images/wifepic.jpg">
+            
+            <div class="owner-text mt-5">
+                <h5>Cherry Ann Zaragoza <br>Owner, RetinQ KETO SHOP</h5>
+            </div>
+        </div>
+    </div>
+</div>
 
-    <!-- Bootstrap JS and jQuery -->
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<!-- Bootstrap JS and jQuery -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
-    <script>
-        // Your existing JavaScript code
-        window.addEventListener("scroll", function(){
-            var header = document.querySelector("nav");
-            header.classList.toggle("sticky", window.scrollY > 0);
-        });
-    </script>
+<script>
+    // Your existing JavaScript code
+    window.addEventListener("scroll", function(){
+        var header = document.querySelector("nav");
+        header.classList.toggle("sticky", window.scrollY > 0);
+    });
+</script>
 </body>
 </html>
