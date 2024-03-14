@@ -175,9 +175,9 @@
                 <h1>Categories</h1>
                 <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
                   <div class="cards col shadow-lg p-3 mb-5 bg-white rounded" style="margin-right:67px">
-                        <div class="card pl-" style="width: 18rem;">
+                        <div class="card" style="width: 18rem;">
                         <div class="text-center">
-                        <img src="images\bread.png" class="card-img-top">
+                        <img src="images\bread.png" class="card-img-top img-fluid">
                         </div>
                         <div class="card-body">
                           <p class="card-text text-center h2">Bread and Pastries</p>
@@ -185,7 +185,7 @@
                   </div>
                   <div class="cardsg col shadow-lg p-3 mb-5 bg-white rounded" style="margin-right:67px">
                         <div class="card" style="width: 18rem;">
-                            <img src="images\general-goods.png" class="card-img-top" alt="...">
+                            <img src="images\general-goods.png" class="card-img-top img-fluid" alt="...">
                             <div class="card-body">
                               <p class="card-text text-center h2">General Goods</p>
                             </div>
@@ -194,7 +194,7 @@
                   </div>
                   <div class="cardss col shadow-lg p-3 mb-5 bg-white rounded" style="margin-right:67px">
                         <div class="card" style="width: 18rem;">
-                            <img  src="images\snacks.png" class="card-img-top" alt="...">
+                            <img  src="images\snacks.png" class="card-img-top img-fluid" alt="...">
                             <div class="card-body">
                               <p class="card-text text-center h2">Snacks</p>
                             </div>
@@ -203,7 +203,7 @@
                   </div>
                   <div class="cardsm col shadow-lg p-3 mb-5 bg-white rounded">
                         <div class="card" style="width: 18rem;">
-                            <img src="images\miscellanous.png" class="card-img-top" alt="...">
+                            <img src="images\miscellanous.png" class="card-img-top img-fluid" alt="...">
                             <div class="card-body">
                               <p class="card-text text-center h3">Miscellaneous</p>
                             </div>
