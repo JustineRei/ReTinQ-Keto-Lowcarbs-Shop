@@ -113,7 +113,7 @@
                         </div>
                     </div>
                     <!--/ Card Product-->
-</div>
+                    </div>
                 
         </div>
 

@@ -88,33 +88,10 @@
                     <!-- / Sort Options-->
                 </div>
             </div>            <!-- /Category Toolbar-->
-
+ 
         <!-- Products-->
         <div class="row g-4 ">
                 
-        <div class="col-12 col-sm-6 col-lg-3 ">
-                    <!-- Card Product-->
-                    <div class="card border position-relative overflow-hidden h-100 transparent">
-                        <div class="card-img position-relative">
-                            <div class="card-badges">
-                                    <span class="badge badge-card"><span class="f-w-2 f-h-2 bg-success rounded-circle d-block me-1"></span> Available</span>
-                            </div>
-                            
-                            <picture class="position-relative overflow-hidden d-block bg-light">
-                                <img class="w-100  img-fluid position-relative z-index-10 p-4" title="" src="assets\images\products\Grains\peanutbrittle1.jpg" alt="">
-                            </picture>
-                                <div class="position-absolute start-0 bottom-0 end-0 z-index-20 p-2 ">
-                                    <button class="btn btn-quick-add"><i class="ri-add-line me-2 "></i> Quick Add</button>
-                                </div>
-                        </div>
-                        <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto: Peanut Brittle Classic</a>
-                            <small class="text-muted d-block">10s<br>20s</small>
-                                    <p class="mt-2 mb-0 small"><span class="text-black">P199-P399</span></p>
-                        </div>
-                    </div>
-                    <!--/ Card Product-->
-                </div>
                 <div class="col-12 col-sm-6 col-lg-3 ">
                     <!-- Card Product-->
                     <div class="card border position-relative overflow-hidden h-100 transparent">
@@ -124,14 +101,14 @@
                             </div>
                             
                             <picture class="position-relative overflow-hidden d-block bg-light">
-                                <img class="w-100  img-fluid position-relative z-index-10 p-4" title="" src="assets\images\products\Grains\brittle2.jpg" alt="">
+                                <img class="w-100  img-fluid position-relative z-index-10 p-4" title="" src="assets\images\products\Pasta\canton1.jpg" alt="">
                             </picture>
                                 <div class="position-absolute start-0 bottom-0 end-0 z-index-20 p-2 ">
                                     <button class="btn btn-quick-add"><i class="ri-add-line me-2 "></i> Quick Add</button>
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto: Sweet Candied Walnuts</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto: Low-Carb Instant Pancit Canton Chiligarlic Pack</a>
                             <small class="text-muted d-block">10s<br>20s</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">P129</span></p>
                         </div>
@@ -147,14 +124,14 @@
                             </div>
                             
                             <picture class="position-relative overflow-hidden d-block bg-light">
-                                <img class="w-100  img-fluid position-relative z-index-10 p-4" title="" src="assets\images\products\Grains\brittle3.jpg" alt="">
+                                <img class="w-100  img-fluid position-relative z-index-10 p-4" title="" src="assets\images\products\Pasta\canton2.jpg" alt="">
                             </picture>
                                 <div class="position-absolute start-0 bottom-0 end-0 z-index-20 p-2 ">
                                     <button class="btn btn-quick-add"><i class="ri-add-line me-2 "></i> Quick Add</button>
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto: Glazed Almonds</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto: Low-Carb Instant Pancit Canton Chilimansi Pacl</a>
                             <small class="text-muted d-block">10s<br>20s</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">P129</span></p>
                         </div>
@@ -170,14 +147,14 @@
                             </div>
                             
                             <picture class="position-relative overflow-hidden d-block bg-light">
-                                <img class="w-100  img-fluid position-relative z-index-10 p-4" title="" src="assets\images\products\Grains\lowcarbcecreal1.jpg" alt="">
+                                <img class="w-100  img-fluid position-relative z-index-10 p-4" title="" src="assets\images\products\Pasta\canton3.jpg" alt="">
                             </picture>
                                 <div class="position-absolute start-0 bottom-0 end-0 z-index-20 p-2 ">
                                     <button class="btn btn-quick-add"><i class="ri-add-line me-2 "></i> Quick Add</button>
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto: Honey & Herbs Almon Cecreal</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto: Low-Carb Instant Pancit Canton Classic Pack</a>
                             <small class="text-muted d-block">10s<br>20s</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">P129</span></p>
                         </div>
@@ -193,7 +170,7 @@
                             </div>
                             
                             <picture class="position-relative overflow-hidden d-block bg-light">
-                                <img class="w-100  img-fluid position-relative z-index-10 p-4" title="" src="assets\images\products\Grains\lowcarbcereal2.jpg" alt="">
+                                <img class="w-100  img-fluid position-relative z-index-10 p-4" title="" src="assets\images\products\Pasta\Dryshiratakii.jpg" alt="">
                             </picture>
                                 <div class="position-absolute start-0 bottom-0 end-0 z-index-20 p-2 ">
                                     <button class="btn btn-quick-add"><i class="ri-add-line me-2 "></i> Quick Add</button>
@@ -216,7 +193,7 @@
                             </div>
                             
                             <picture class="position-relative overflow-hidden d-block bg-light">
-                                <img class="w-100  img-fluid position-relative z-index-10 p-4" title="" src="assets\images\products\Grains\lowcarbcecreal3.jpg" alt="">
+                                <img class="w-100  img-fluid position-relative z-index-10 p-4" title="" src="assets\images\products\Pasta\konjacpasta.jpg" alt="">
                             </picture>
                                 <div class="position-absolute start-0 bottom-0 end-0 z-index-20 p-2 ">
                                     <button class="btn btn-quick-add"><i class="ri-add-line me-2 "></i> Quick Add</button>

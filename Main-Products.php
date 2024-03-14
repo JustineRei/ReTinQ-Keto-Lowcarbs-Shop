@@ -177,6 +177,7 @@
                                                         <li class="dropdown-list-item"><a class="dropdown-item" href="Products\Meat.php" target="displayContent">Meat</a></li>
                                                         <li class="dropdown-list-item"><a class="dropdown-item" href="Products\Bread.php" target="displayContent">Bread</a></li>
                                                         <li class="dropdown-list-item"><a class="dropdown-item" href="Products\Sauce.php" target="displayContent">sauces</a></li>
+                                                        <li class="dropdown-list-item"><a class="dropdown-item" href="Products\Pasta.php" target="displayContent">Pasta</a></li>
                                                         <li class="dropdown-list-item"><a class="dropdown-item dropdown-link-all" href="./category.html">View All</a></li>
                                                     </ul>
                                                 </div>
