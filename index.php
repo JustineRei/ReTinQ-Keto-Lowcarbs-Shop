@@ -17,11 +17,19 @@
 <link rel="stylesheet" href="./assets/css/theme.bundle.css" />
 <link rel="stylesheet" href="style.css">
 
+  <!-- *******  Font Awesome Icons Link  ******* -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"/>
+
+  <!-- *******  Owl Carousel Links  ******* -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"/>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css"/>
+
+
 </head>
 <body>
 <?php include('header.php') ?>
          <!-- Page Content Goes Here -->
-
         <!-- / Top banner -->
         <section class="vh-75 vh-lg-60 container-fluid rounded overflow-hidden" data-aos="fade-in">
             <!-- Swiper Info -->
@@ -57,11 +65,11 @@
                   </div>
                   <div
                     class="container position-relative z-index-10 d-flex h-100 align-items-start flex-column justify-content-center">
-                    <p class="title-small text-white opacity-75 mb-0" data-swiper-parallax="-100">Everything You Need</p>
+                    <p class="title-small text-white opacity-75 mb-0" data-swiper-parallax="-100">Keto Cake</p>
                     <h2 class="display-3 tracking-wide fw-bold text-uppercase tracking-wide text-white" data-swiper-parallax="100">
-                      <span class="text-outline-light">Summer</span> Essentials</h2>
+                      <span class="text-outline-light">Caramel</span> Cake For you!</h2>
                     <div data-swiper-parallax-y="-25">
-                      <a href="./category.html" class="btn btn-psuedo text-white" role="button">Shop New Arrivals</a>
+                      <a href="./category.html" class="btn btn-psuedo text-white" role="button">Shop Now!</a>
                     </div>
                   </div>
                 </div>
@@ -76,11 +84,11 @@
                   </div>
                   <div
                     class="container position-relative z-index-10 d-flex h-100 align-items-start flex-column justify-content-center">
-                    <p class="title-small text-white opacity-75 mb-0" data-swiper-parallax="-100">Spring Collection</p>
+                    <p class="title-small text-white opacity-75 mb-0" data-swiper-parallax="-100">Keto Ice Cream</p>
                     <h2 class="display-3 tracking-wide fw-bold text-uppercase tracking-wide text-white" data-swiper-parallax="100">
-                      Adidas <span class="text-outline-light">SS21</span></h2>
+                      <span class="text-outline-light">AVOCADO</span>flavor</h2>
                     <div data-swiper-parallax-y="-25">
-                      <a href="./category.html" class="btn btn-psuedo text-white" role="button">Shop Latest Adidas</a>
+                      <a href="./category.html" class="btn btn-psuedo text-white" role="button">Shop Now</a>
                     </div>
                   </div>
                 </div>
@@ -95,11 +103,11 @@
                   </div>
                   <div
                     class="container position-relative z-index-10 d-flex h-100 align-items-start flex-column justify-content-center">
-                    <p class="title-small text-white opacity-75 mb-0" data-swiper-parallax="-100">Just Do it</p>
+                    <p class="title-small text-white opacity-75 mb-0" data-swiper-parallax="-100">Keto Ice Cream</p>
                     <h2 class="display-3 tracking-wide fw-bold text-uppercase tracking-wide text-white" data-swiper-parallax="100">
-                      Nike <span class="text-outline-light">SS21</span></h2>
+                      <span class="text-outline-light">Matcha</span>Flavor</h2>
                     <div data-swiper-parallax-y="-25">
-                      <a href="./category.html" class="btn btn-psuedo text-white" role="button">Shop Latest Nike</a>
+                      <a href="./category.html" class="btn btn-psuedo text-white" role="button">Shop Now!</a>
                     </div>
                   </div>
                 </div>
@@ -114,11 +122,11 @@
                   </div>
                   <div
                     class="container position-relative z-index-10 d-flex h-100 align-items-start flex-column justify-content-center">
-                    <p class="title-small text-white opacity-75 mb-0" data-swiper-parallax="-100">Look Good Feel Good</p>
+                    <p class="title-small text-white opacity-75 mb-0" data-swiper-parallax="-100">Keto/Lowcarbs Shop</p>
                     <h2 class="display-3 tracking-wide fw-bold text-uppercase tracking-wide text-white" data-swiper-parallax="100">
-                      <span class="text-outline-light">Sustainable</span> Fashion</h2>
+                      <span class="text-outline-light">Keto</span> Friendly</h2>
                     <div data-swiper-parallax-y="-25">
-                      <a href="./category.html" class="btn btn-psuedo text-white" role="button">Why We Are Different</a>
+                      <a href="./category.html" class="btn btn-psuedo text-white" role="button">Shop Now!</a>
                     </div>
                   </div>
                 </div>
@@ -136,71 +144,74 @@
 <!--UNLI BANNER-->
 <div class="logos">
   <div class="logos-slide">
-    <img src="images\banner1.png" />
-    <img src="images\banner2.png" />
-    <img src="images\banner3.png" />
-    <img src="images\banner1.png" />
-    <img src="images\banner2.png" />
-    <img src="images\banner3.png" />
-    <img src="images\banner1.png" />
+    <img src="images\banner11.png" />
+    <img src="images\banner22.png" />
+    <img src="images\banner33.png" />
+    <img src="images\banner11.png" />
+    <img src="images\banner22.png" />
+    <img src="images\banner33.png" />
+    <img src="images\banner11.png" />
   </div>
 
   <div class="logos-slide">
-    <img src="images\banner1.png" />
-    <img src="images\banner2.png" />
-    <img src="images\banner3.png" />
-    <img src="images\banner1.png" />
-    <img src="images\banner2.png" />
-    <img src="images\banner3.png" />
-    <img src="images\banner1.png" />
+    <img src="images\banner11.png" />
+    <img src="images\banner22.png" />
+    <img src="images\banner33.png" />
+    <img src="images\banner11.png" />
+    <img src="images\banner22.png" />
+    <img src="images\banner33.png" />
+    <img src="images\banner11.png" />
+>>>>>>> Stashed changes
   </div>
 </div>
-<!--/UNLI BANNER-->
+
         <!--Second Page-->
       
         <div class="container">
             <div class="row no-gutters">
-                <div class="col-12 col-sm-6 col-md-8"><div class="content-2">ReTinQ Keto Shop</div>
+                <div class="col-sm-12 col-md-6"><div class="content-2">ReTinQ Keto Shop</div>
                 <div class="content-3">Shop keto products at RETINQ Keto online.</div></div>
-                <div class="col-6 col-md-4"> <div class="content-4">We offer a wide range of keto and low-carb supplies from meals, essentials, pastries, drinks and frozen goods.</div></div>
+                <div class="col-sm-12 col-md-6"> <div class="content-4">We offer a wide range of keto and low-carb supplies from meals, essentials, pastries, drinks and frozen goods.</div></div>
               </div>
             </div>
        
         <!--/Second Page-->
 
-        <!--Third Page-->
-        <div class="container-2">
+                <!--Third Page-->
+                <div class="container-2">
             <div class="container">
                 <h1>Categories</h1>
                 <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
-                  <div class="col shadow-lg p-3 mb-5 bg-white rounded">
+                  <div class="cards col shadow-lg p-3 mb-5 bg-white rounded" style="margin-right:67px">
                         <div class="card pl-" style="width: 18rem;">
-                        <img src="images\meat-icons.png" class="card-img-top">
+                        <div class="text-center">
+                        <img src="images\bread.png" class="card-img-top">
+                        </div>
                         <div class="card-body">
                           <p class="card-text text-center h2">Bread and Pastries</p>
                       </div></div>
                   </div>
-                  <div class="col shadow-lg p-3 mb-5 bg-white rounded">
+                  <div class="cardsg col shadow-lg p-3 mb-5 bg-white rounded" style="margin-right:67px">
                         <div class="card" style="width: 18rem;">
-                            <img src="images\sauce-icon.png" class="card-img-top" alt="...">
+                            <img src="images\general-goods.png" class="card-img-top" alt="...">
                             <div class="card-body">
                               <p class="card-text text-center h2">General Goods</p>
                             </div>
                           </div>
                     
                   </div>
-                  <div class="col shadow-lg p-3 mb-5 bg-white rounded">
+                  <div class="cardss col shadow-lg p-3 mb-5 bg-white rounded" style="margin-right:67px">
                         <div class="card" style="width: 18rem;">
-                            <img  src="images\dairy-icon.png" class="card-img-top" alt="...">
+                            <img  src="images\snacks.png" class="card-img-top" alt="...">
                             <div class="card-body">
                               <p class="card-text text-center h2">Snacks</p>
                             </div>
                           </div>
                     
                   </div>
-                  <div class="col shadow-lg p-3 mb-5 bg-white rounded">
+                  <div class="cardsm col shadow-lg p-3 mb-5 bg-white rounded">
                         <div class="card" style="width: 18rem;">
-                            <img src="images\cake-icon.png" class="card-img-top" alt="...">
+                            <img src="images\miscellanous.png" class="card-img-top" alt="...">
                             <div class="card-body">
                               <p class="card-text text-center h3">Miscellaneous</p>
                             </div>
@@ -214,13 +225,210 @@
         <!--/Third Page-->
 
         <!--Fourth Page-->
-        
+        <div class="testimonials-section">
+	
+    <!-- Section Header Starts -->
+    <header class="section-header">
+      <h1>What Clients Say</h1>
+    </header>
+    <!-- Section Header Ends -->
+
+    <!-- Owl Carousel Slider Starts -->
+    <div class="owl-carousel owl-theme testimonials-container">
+      <!-- Item1 Starts -->
+        <div class="item testimonial-card">
+          <main class="test-card-body">
+            <div class="quote">
+              <i class="fa fa-quote-left"></i>
+              <h2>Awesome Coding</h2>
+            </div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
+            <div class="ratings">
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+            </div>
+          </main>
+          <div class="profile">
+            <div class="profile-image">
+              <img src="image1.jpg">
+            </div>
+            <div class="profile-desc">
+              <span>Person Name</span>
+              <span>Description</span>
+            </div>
+          </div>
+        </div>
+        <!-- Item1 Ends -->
+
+        <!-- Item2 Starts -->
+        <div class="item testimonial-card">
+          <main class="test-card-body">
+            <div class="quote">
+              <i class="fa fa-quote-left"></i>
+              <h2>Awesome Coding</h2>
+            </div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
+            <div class="ratings">
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+            </div>
+          </main>
+          <div class="profile">
+            <div class="profile-image">
+              <img src="image2.jpg">
+            </div>
+            <div class="profile-desc">
+              <span>Person Name</span>
+              <span>Description</span>
+            </div>
+          </div>
+        </div>
+        <!-- Item2 Ends -->
+
+        <!-- Item3 Starts -->
+        <div class="item testimonial-card">
+          <main class="test-card-body">
+            <div class="quote">
+              <i class="fa fa-quote-left"></i>
+              <h2>Awesome Coding</h2>
+            </div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
+            <div class="ratings">
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+            </div>
+          </main>
+          <div class="profile">
+            <div class="profile-image">
+              <img src="image3.jpg">
+            </div>
+            <div class="profile-desc">
+              <span>Person Name</span>
+              <span>Description</span>
+            </div>
+          </div>
+        </div>
+        <!-- Item3 Ends -->
+
+        <!-- Item4 Starts -->
+        <div class="item testimonial-card">
+          <main class="test-card-body">
+            <div class="quote">
+              <i class="fa fa-quote-left"></i>
+              <h2>Awesome Coding</h2>
+            </div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
+            <div class="ratings">
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+            </div>
+          </main>
+          <div class="profile">
+            <div class="profile-image">
+              <img src="image4.jpg">
+            </div>
+            <div class="profile-desc">
+              <span>Person Name</span>
+              <span>Description</span>
+            </div>
+          </div>
+        </div>
+        <!-- Item4 Ends -->
+
+        <!-- Item5 Starts -->
+        <div class="item testimonial-card">
+          <main class="test-card-body">
+            <div class="quote">
+              <i class="fa fa-quote-left"></i>
+              <h2>Awesome Coding</h2>
+            </div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
+            <div class="ratings">
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+            </div>
+          </main>
+          <div class="profile">
+            <div class="profile-image">
+              <img src="image5.jpg">
+            </div>
+            <div class="profile-desc">
+              <span>Person Name</span>
+              <span>Description</span>
+            </div>
+          </div>
+        </div>
+        <!-- Item5 Ends -->
+
+        <!-- Item6 Starts -->
+        <div class="item testimonial-card">
+          <main class="test-card-body">
+            <div class="quote">
+              <i class="fa fa-quote-left"></i>
+              <h2>Awesome Coding</h2>
+            </div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
+            <div class="ratings">
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+            </div>
+          </main>
+          <div class="profile">
+            <div class="profile-image">
+              <img src="image6.jpg">
+            </div>
+            <div class="profile-desc">
+              <span>Person Name</span>
+              <span>Description</span>
+            </div>
+          </div>
+        </div>
+        <!-- Item6 Ends -->
+
+      </div>
+	<!-- Owl Carousel Slider Ends -->
+
+</div>
         <!--/Fourth Page-->
+
+
+
+
+
+
+
     <!-- Theme JS -->
     <!-- Vendor JS -->
-    <script src="./assets/js/vendor.bundle.js"></script>
+    <script src="assets\js\vendor.bundle.js"></script>
     
     <!-- Theme JS -->
-    <script src="./assets/js/theme.bundle.js"></script>
+    <script src="assets\js\theme.bundle.js"></script>
+
+  <!--   *****   JQuery Link   *****   -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+
+  <!--   *****   Owl Carousel js Link  *****  -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+
+  <!--   *****   Link To Custom Script File   *****   -->
+  <script type="text/javascript" src="script.js"></script>
 </body>
 </html>
