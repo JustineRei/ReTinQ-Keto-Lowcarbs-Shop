@@ -1,31 +1,3 @@
-<?php
-   include("Config.php");
-   session_start();
-   
-   if($_SERVER["REQUEST_METHOD"] == "POST") {
-      // username and password sent from form 
-      
-      $myusername = mysqli_real_escape_string($db,$_POST['login-email']);
-      $mypassword = mysqli_real_escape_string($db,$_POST['login-password']); 
-      
-      $sql = "SELECT id FROM users WHERE Username = '$myusername' and Pword = '$mypassword'";
-      $result = mysqli_query($db,$sql);
-      $row = mysqli_fetch_array($result,MYSQLI_ASSOC);
-      
-      $count = mysqli_num_rows($result);
-      
-      // If result matched $myusername and $mypassword, table row must be 1 row
-		
-      if($count == 1) {
-
-         $_SESSION['login_user'] = $myusername;
-         
-         header("location: index.php");
-      }else {
-         $error = "Your Login Name or Password is invalid";
-      }
-   }
-?>
 <!doctype html>
 <html lang="en">
 
@@ -58,23 +30,17 @@
   <!-- Main CSS -->
   <link rel="stylesheet" href="./assets/css/theme.bundle.css" />
 
-  <link rel="stylesheet" href="login.css">
-
   <!-- Fix for custom scrollbar if JS is disabled-->
   <noscript>
     <style>
       /**
           * Reinstate scrolling for non-JS clients
           */
-          
       .simplebar-content-wrapper {
         overflow: auto;
-
       }
-      
     </style>
   </noscript>
-  
 
   <!-- Page Title -->
   <title>OldSkool | Bootstrap 5 HTML Template</title>
@@ -90,31 +56,39 @@
         <!-- Login Form-->
         <div class="col col-md-8 col-lg-6 col-xxl-5">
             <!-- Logo-->
-            <a class="navbar-brand fw-bold fs-3 flex-shrink-0 order-0 align-self-center justify-content-center d-flex mx-0 px-0" href="index.php">
+            <a class="navbar-brand fw-bold fs-3 flex-shrink-0 order-0 align-self-center justify-content-center d-flex mx-0 px-0" href="./index.html">
                 <div class="d-flex align-items-center">
-                    <img src="images\logo.png">
+                    <svg class="f-w-7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 77.53 72.26"><path d="M10.43,54.2h0L0,36.13,10.43,18.06,20.86,0H41.72L10.43,54.2Zm67.1-7.83L73,54.2,68.49,62,45,48.47,31.29,72.26H20.86l-5.22-9L52.15,0H62.58l5.21,9L54.06,32.82,77.53,46.37Z" fill="currentColor" fill-rule="evenodd"/></svg>
                 </div>
             </a>
             <!-- / Logo-->
-            <div class="shadow-xl p-4 p-lg-5 bg-white" >
-                <h1 class="text-center fw-bold mb-5 fs-2">Login</h1>
-               
+            <div class="shadow-xl p-4 p-lg-5 bg-white">
+                <h1 class="text-center mb-5 fs-2 fw-bold">Open Account</h1>
+                <a href="#" class="btn btn-facebook d-block mb-2"><i class="ri-facebook-circle-fill align-bottom"></i> Login
+                    with Facebook</a>
+                <a href="#" class="btn btn-twitter d-block mb-2"><i class="ri-twitter-fill align-bottom"></i> Login with
+                    Twitter</a>
                 <span class="text-muted text-center d-block fw-bolder my-4">OR</span>
-                <form action="" method="post">
+                <form>
                     <div class="form-group">
-                      <label class="form-label" for="login-email">Email address</label>
-                      <input type="email" class="form-control" name="login-email" id="login-email" placeholder="name@email.com">
+                      <label class="form-label" for="register-fname">First name</label>
+                      <input type="text" class="form-control" id="register-fname" placeholder="Enter your first name">
                     </div>
                     <div class="form-group">
-                      <label for="login-password"  class="form-label d-flex justify-content-between align-items-center">
-                        Password
-                        <a href="forgotten-password.php" class="text-muted small">Forgot your password?</a>
-                      </label>
-                      <input type="password" class="form-control" id="login-password" name="login-password" placeholder="Enter your password">
+                      <label class="form-label" for="register-lname">Last name</label>
+                      <input type="text" class="form-control" id="register-lname" placeholder="Enter your last name">
                     </div>
-                    <button class="btn d-block w-100 my-4" value="login" name="login">Login</button>
-                </form>
-                <p class="d-block text-center text-muted">New customer? <a class="text-muted" href="register.php">Sign up for an account</a></p>
+                    <div class="form-group">
+                      <label class="form-label" for="register-email">Email address</label>
+                      <input type="email" class="form-control" id="register-email" placeholder="name@email.com">
+                    </div>
+                    <div class="form-group">
+                      <label class="form-label" for="register-password">Password</label>
+                      <input type="password" class="form-control" id="register-password" placeholder="Enter your password">
+                    </div>
+                    <button type="submit" class="btn btn-dark d-block w-100 my-4">Sign Up</button>
+                  </form>
+                  <p class="d-block text-center text-muted">Already registered? <a class="text-muted" href="./login.html">Login here.</a></p>
             </div>
 
         </div>

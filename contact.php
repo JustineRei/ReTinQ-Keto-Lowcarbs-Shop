@@ -1,3 +1,6 @@
+<?php
+   include('Session.php');
+?>
 <html lang="en">
 
     <head>

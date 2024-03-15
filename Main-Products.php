@@ -1,3 +1,6 @@
+<?php include("Config.php");
+   session_start();
+   ?>
 <!doctype html>
 <html lang="en">
 
@@ -41,6 +44,12 @@
        }
      </style>
    </noscript>
+   <style>
+    html{
+        overflow: hidden !important;
+    }
+
+   </style>
 
 </head>
 <body>
