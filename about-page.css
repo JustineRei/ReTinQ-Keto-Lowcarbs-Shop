@@ -20,6 +20,7 @@ body {
   text-align: left;
   margin-left: -90px;
   margin-top: 25px;
+  align-items: center;
 }
 .about-text h1, .about-text h4 {
   font-family: 'Poppins', sans-serif !important;
@@ -112,5 +113,13 @@ nav {
 .nav-link {
   color: white !important;
   background-color: #379E18 !important;
+}
+
+@media only screen and (max-width: 414px){
+
+  .about-text{
+    visibility: visible;
+  }
+  
 }
 
