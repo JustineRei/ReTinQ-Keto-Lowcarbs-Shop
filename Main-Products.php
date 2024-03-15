@@ -161,7 +161,7 @@
                                                     <h6 class="dropdown-heading">Breads and Pastries</h6>
                                                     <ul class="list-unstyled">
                                                         <li class="dropdown-list-item"><a class="dropdown-item" href="Products\Cakes.php" target="displayContent">Cakes</a></li>
-                                                        
+                                                        <li class="dropdown-list-item"><a class="dropdown-item" href="Products\Bread.php" target="displayContent">Bread</a></li>
                                                         
                                                        
                                                         
@@ -175,7 +175,6 @@
                                                     <h6 class="dropdown-heading">General Goods</h6>
                                                     <ul class="list-unstyled">
                                                         <li class="dropdown-list-item"><a class="dropdown-item" href="Products\Meat.php" target="displayContent">Meat</a></li>
-                                                        <li class="dropdown-list-item"><a class="dropdown-item" href="Products\Bread.php" target="displayContent">Bread</a></li>
                                                         <li class="dropdown-list-item"><a class="dropdown-item" href="Products\Sauce.php" target="displayContent">sauces</a></li>
                                                         <li class="dropdown-list-item"><a class="dropdown-item" href="Products\Pasta.php" target="displayContent">Pasta</a></li>
                                                         <li class="dropdown-list-item"><a class="dropdown-item dropdown-link-all" href="./category.html">View All</a></li>

@@ -64,7 +64,7 @@
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
                           <li class="breadcrumb-item"><a href="#">Products</a></li>
-                          <li class="breadcrumb-item"><a href="#">Meat-Hooray</a></li>
+                          <li class="breadcrumb-item"><a href="#">Dairy</a></li>
                           
                         </ol>
                     </nav>        <h1 class="fw-bold fs-3 mb-2" >Dairy (10)</h1>

@@ -64,7 +64,7 @@
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
                           <li class="breadcrumb-item"><a href="#">Products</a></li>
-                          <li class="breadcrumb-item"><a href="#">Meat-Hooray</a></li>
+                          <li class="breadcrumb-item"><a href="#">Low-Carb Cakes</a></li>
                           
                         </ol>
                     </nav>        <h1 class="fw-bold fs-3 mb-2" >Low-Carb Cakes (11)</h1>
@@ -489,7 +489,7 @@
                             <div class="card-badges">
                                     <span class="badge badge-card"><span class="f-w-2 f-h-2 bg-success rounded-circle d-block me-1"></span> Available</span>
                             </div>
-                            
+
                             <picture class="position-relative overflow-hidden d-block bg-light">
                                 <img class="w-100  img-fluid position-relative z-index-10 p-4" title="" src="assets\images\products\Cakes\trip.jpg" alt="">
                             </picture>
@@ -505,6 +505,7 @@
                     </div>
                     <!--/ Card Product-->
                 </div>
+                
         </div>
 
         <!-- / Products-->

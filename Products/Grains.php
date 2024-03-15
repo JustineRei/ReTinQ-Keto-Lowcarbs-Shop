@@ -64,10 +64,10 @@
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
                           <li class="breadcrumb-item"><a href="#">Products</a></li>
-                          <li class="breadcrumb-item"><a href="#">Meat-Hooray</a></li>
+                          <li class="breadcrumb-item"><a href="#">Grains</a></li>
                           
                         </ol>
-                    </nav>        <h1 class="fw-bold fs-3 mb-2" >Low-Carb Cakes (11)</h1>
+                    </nav>        <h1 class="fw-bold fs-3 mb-2" >Grains (11)</h1>
                     <p class="m-0 text-muted small">Showing 1 - 9 of 121</p>
                 </div>
                 <div class="d-flex justify-content-end align-items-center mt-4 mt-lg-0 flex-column flex-md-row">
