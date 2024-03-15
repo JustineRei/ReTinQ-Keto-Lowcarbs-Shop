@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Spartan", sans-serif;
+  font-family: "poppins";
 }
 
 html {
@@ -49,17 +49,71 @@ p {
   margin: 40px 0;
 }
 
-button.normal{
-  font-size: 14px;
-  font-weight: 600;
-  padding: 15px 30px;
-  color: #000;
-  background-color: #fff;
-  border-radius: 4px;
-  cursor: pointer;
-  border: none;
-  outline: none;
-  transition: 0.2s;
+
+#form-details a{
+  position: relative;
+  background: #1E5741;
+  color: #1E5741;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 1.5em;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  padding: 10px 30px;
+  transition: 0.5s;
+  margin-left: 85%;
+  
+}
+#form-details a:hover{
+  background: var(--clr);
+  color: #F0F8FF;
+  letter-spacing: 0.20em;
+  box-shadow: 0 0 15px var(--clr);
+}
+#form-details a::before{
+  content: '';
+  position: absolute;
+  inset: 2px;
+  background: #fff;
+}
+#form-details a span{
+  position: relative;
+  z-index: 1;
+}
+#form-details a dfn{
+  position: absolute;
+  inset: 0;
+  display: block;
+}
+#form-details a dfn::before{
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 80%;
+  width: 10px;
+  height: 4px;
+  background: #fff;
+  transform: translateX(-50%) skewX(325deg);
+  transition: 0.5s;
+}
+#form-details a:hover dfn::before{
+  width: 20px;
+  left: 20%;
+}
+#form-details a dfn::after{
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 20%;
+  width: 10px;
+  height: 4px;
+  background: #fff;
+  transform: translateX(-50%) skewX(325deg);
+  transition: 0.5s;
+}
+#form-details a:hover dfn::after{
+  width: 20px;
+  left: 80%;
 }
 
 button.white{
@@ -89,6 +143,7 @@ body {
 
 #contact-details .details{
   width: 40%;
+  
 }
 
     #contact-details .details span,
@@ -136,12 +191,14 @@ body {
   height: 100%;
 }
 
+
 #form-details{
   display: flex;
   justify-content: space-between;
   margin: 30px;
   padding: 80px;
-  border: 1px solid #e1e1e1;
+  border: 1px solid #009639;
+  box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.5);
 }
 
     #form-details form {
@@ -149,7 +206,6 @@ body {
         display: flex;
         flex-direction: column;
         align-items: flex-start;
-       
     }
 
 #form-details form input,
@@ -159,6 +215,7 @@ body {
   outline: none;
   margin-bottom: 20px;
   border: 1px solid #e1e1e1;
+
 }
 
     #form-details form button {
@@ -177,6 +234,9 @@ body {
   height: 65px;
   object-fit: cover;
   margin-right: 15px;
+}
+#form-details span{
+
 }
 
 #form-details .people div p{
@@ -218,6 +278,7 @@ body {
   transition: 0.2s ease;
   position: relative;
   min-height: 130px;
+  background-color: #088178;
 }
 
 #product1 .pro:hover{
@@ -231,17 +292,18 @@ body {
 #product1 .pro .des{
   text-align: center;
   padding: 20px 0;
+  
 }
 
 #product1 .pro .des span{
-  color: #606063;
+  color: #F0F8FF;
   font-size: 12px;
   padding-top: 20px;
 }
 
 #product1 .pro .des h5{
   padding-top: 7px;
-  color: #1a1a1a;
+  color: #F0F8FF;
   font-size: 22px;
 }
 
@@ -249,7 +311,7 @@ body {
   padding-top: 20px;
   font-size: 15px;
   font-weight: 700;
-  color: #088178;
+  color: #F0F8FF;
   text-align: end;
   padding-right: 10px;
 }
@@ -257,16 +319,15 @@ body {
 
 
 #page-header.about-header{
-  background-image: url(src/wristwonderist.jpg);
-  background-position: 10px;
+  background-image: url(src/header.jpg);
+  background-position: center;
 }
 #page-header{
   width: 100%;
-  height: 40vh;
+  height: 400px;
   background-size: cover;
   display: flex;
   justify-content: center;
-  text-align: center;
   flex-direction: column;
   padding: 14px;
 object-fit: contain;
@@ -275,4 +336,12 @@ object-fit: contain;
 #page-header h2,
 #page-header p{
   color: #fff;
+  margin-left: 190px;
+}
+
+#page-header h2{
+  font-size: 70px;
+}
+#page-header p{
+  font-size: 18px;
 }
