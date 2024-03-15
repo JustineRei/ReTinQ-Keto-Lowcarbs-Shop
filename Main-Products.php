@@ -45,9 +45,8 @@
      </style>
    </noscript>
    <style>
-    html{
-        overflow: hidden !important;
-    }
+    
+    
 
    </style>
 
@@ -155,11 +154,11 @@
                           </a>
                         </li>
                           <li class="nav-item dropdown dropdown position-static">
-                            <a class="nav-link dropdown-toggle text-white"   href="Products\All_Products.html" target="displayContent" role="button"  aria-expanded="false">
+                            <a class="nav-link dropdown-toggle text-white"   href="Products\All_Products.php" target="displayContent" role="button"  aria-expanded="false">
                               Products
                             </a>
                               <!-- Menswear dropdown menu-->
-                              <div class="dropdown-menu dropdown-megamenu">
+                              <div class="baba dropdown-menu dropdown-megamenu">
                                 <div class="container-fluid">
                                     <div class="row g-0 g-lg-3">
                                         <!-- Menswear Dropdown Menu Links Section-->
