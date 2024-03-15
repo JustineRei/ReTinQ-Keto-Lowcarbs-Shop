@@ -1,4 +1,4 @@
-<?php include('header.php') ?>
+
 <!-- Vendor CSS -->
 
 <!DOCTYPE html>
@@ -8,23 +8,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 
-        
+   
+       
 <!--Bootstraps-->
 <link href="stylesheet" rel="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-<link rel="stylesheet" href="assets\css\libs.bundle.css" />
+
+<!-- Vendor CSS -->
+<link rel="stylesheet" href="./assets/css/libs.bundle.css" />
 
 <!-- Main CSS -->
-<link rel="stylesheet" href="assets\css\theme.bundle.css" />
+<link rel="stylesheet" href="./assets/css/theme.bundle.css" />
+<?php include 'header.php'?>
 <link rel="stylesheet" href="style.css">
  
-
 </head>
 <body>
   
          <!-- Page Content Goes Here -->
         <!-- / Top banner -->
-        <section class="vh-75 vh-lg-60 container-fluid rounded overflow-hidden" data-aos="fade-in">
+        <section class="vh-75 vh-lg-60 container-fluid rounded overflow- mt-4" data-aos="fade-in">
             <!-- Swiper Info -->
             <div class="swiper-container overflow-hidden rounded h-100 bg-light" data-swiper data-options='{
               "spaceBetween": 0,
@@ -171,12 +173,11 @@
         <!--/Second Page-->
 
         <!--Third Page-->
-        <div class="container-2">
-            <div class="container">
-                <h1>Categories</h1>
-                <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
-                  <div class="cards col shadow-lg p-3 mb-5 bg-white rounded" style="margin-right:67px">
-                        <div class="card" style="width: 18rem;">
+        <div class="container-2 img-fluid">
+                <h1 class="d-flex justify-content-center mt-1">Categories</h1>
+                <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-2 d-flex justify-content-center">
+                  <div class="cards col shadow-lg m-4 mb-5 bg-white rounded" style="width:20.7rem;">
+                        <div class="card" style="width: 20rem;">
                         <div class="text-center">
                         <img src="images\bread.png" class="card-img-top img-fluid">
                         </div>
@@ -184,8 +185,8 @@
                           <p class="card-text text-center h2">Bread and Pastries</p>
                       </div></div>
                   </div>
-                  <div class="cardsg col shadow-lg p-3 mb-5 bg-white rounded" style="margin-right:67px">
-                        <div class="card" style="width: 18rem;">
+                  <div class="cardsg col shadow-lg m-4 mb-5 bg-white rounded" style="width: 20.7rem;">
+                        <div class="card" style="width: 20rem;">
                             <img src="images\general-goods.png" class="card-img-top img-fluid" alt="...">
                             <div class="card-body">
                               <p class="card-text text-center h2">General Goods</p>
@@ -193,8 +194,8 @@
                           </div>
                     
                   </div>
-                  <div class="cardss col shadow-lg p-3 mb-5 bg-white rounded" style="margin-right:67px">
-                        <div class="card" style="width: 18rem;">
+                  <div class="cardss col shadow-lg m-4 mb-5 bg-white rounded" style="width: 20.7rem;">
+                        <div class="card" style="width: 20rem;">
                             <img  src="images\snacks.png" class="card-img-top img-fluid" alt="...">
                             <div class="card-body">
                               <p class="card-text text-center h2">Snacks</p>
@@ -202,11 +203,11 @@
                           </div>
                     
                   </div>
-                  <div class="cardsm col shadow-lg p-3 mb-5 bg-white rounded">
-                        <div class="card" style="width: 18rem;">
+                  <div class="cardsm col shadow-lg m-4 mb-5 bg-white rounded" style="width: 20.7rem;">
+                        <div class="card" style="width: 20rem;">
                             <img src="images\miscellanous.png" class="card-img-top img-fluid" alt="...">
                             <div class="card-body">
-                              <p class="card-text text-center h3">Miscellaneous</p>
+                              <p class="card-text text-center h2">Miscellaneous</p>
                             </div>
                           </div>
                         </div>
@@ -214,7 +215,6 @@
                   </div>
                 </div>
               </div>
-        </div>
         <!--/Third Page-->
 
         <!--Fourth Page-->
@@ -226,5 +226,6 @@
     
     <!-- Theme JS -->
     <script src="assets\js\theme.bundle.js"></script>
+    
 </body>
 </html>
