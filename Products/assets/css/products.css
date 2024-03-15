@@ -12,7 +12,7 @@
     padding-left: 10px;
 }
 .filler{
-    height: 100px;
+    height: 150px;
     background-color: white;
 }
 .swiper-container .btn{
@@ -20,7 +20,7 @@
     
 }
 .swiper-container .btn:hover{
-    color: white;
+    
     font-size: 0.95rem;
     
     
