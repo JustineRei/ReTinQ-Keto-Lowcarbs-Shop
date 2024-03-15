@@ -68,25 +68,9 @@
                           
                         </ol>
                     </nav>        <h1 class="fw-bold fs-3 mb-2" >Low-Carb Cakes (11)</h1>
-                    <p class="m-0 text-muted small">Showing 1 - 9 of 121</p>
+                    
                 </div>
-                <div class="d-flex justify-content-end align-items-center mt-4 mt-lg-0 flex-column flex-md-row">
-            
-                    <!-- Filter Trigger-->
-                    <button class="btn bg-light p-3 me-md-3 d-flex align-items-center fs-7 lh-1 w-100 mb-2 mb-md-0 w-md-auto " type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasFilters" aria-controls="offcanvasFilters">
-                        <i class="ri-equalizer-line me-2"></i> Filters
-                    </button>
-                    <!-- / Filter Trigger-->
-            
-                    <!-- Sort Options-->
-                        <select class="form-select form-select-sm border-0 bg-light p-3 pe-5 lh-1 fs-7">
-                            <option selected>Sort By</option>
-                            <option value="1">Hi Low</option>
-                            <option value="2">Low Hi</option>
-                            <option value="3">Name</option>
-                        </select>
-                    <!-- / Sort Options-->
-                </div>
+                
             </div>            <!-- /Category Toolbar-->
 
         <!-- Products-->
@@ -510,14 +494,7 @@
 
         <!-- / Products-->
 
-        <!-- Pagination-->
-        <div class="d-flex flex-column f-w-44 mx-auto my-5 text-center">
-            <small class="text-muted">Showing 9 of 121 products</small>
-            <div class="progress f-h-1 mt-3">
-                <div class="progress-bar bg-dark" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-            </div>
-            <a href="#" class="btn btn-outline-dark btn-sm mt-5 align-self-center py-3 px-4 border-2">Load More</a>
-        </div>            <!-- / Pagination-->
+        
     </div>
     
     <!-- /Page Content -->
