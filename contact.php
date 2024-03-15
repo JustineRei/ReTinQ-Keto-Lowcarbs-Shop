@@ -17,7 +17,7 @@
     </head>
 
     <body>
-    <?php include('header.php') ?>
+        <?php include('header.php') ?>
     
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 
@@ -106,19 +106,22 @@
 
             
             <form action="">
-                <span>LEAVE A MEESAGE</span>
+                <span>LEAVE A MESAGE</span>
                 <h2>We love to hear from you</h2>
                 <input type="text" placeholder="Your Name">
                 <input type="text" placeholder="E-mail">
                 <input type="text" placeholder="Subject">
                 <textarea name="" id="" cols="30" rows="10" placeholder="Your Message"></textarea>
-                <button class="normal">Submit</button>
+                <a href="#" class="normal" style="--clr:#00A572"><span>Submit</span><dfn></dfn></a>
+                
             </form>
             <div class="people">
+                
                 <div>
                     <img src="src/landing.jpg" alt="">
                     <p><span>Cherry Ann Zaragoza</span>Owner <br>+ 099 5867 7883 <br>cherryannzaragoza86@gmail.com</p>
-                </div>
+                  </div>
+                  
             </div>
         </section>
        
