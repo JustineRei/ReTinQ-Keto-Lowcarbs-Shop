@@ -11,6 +11,11 @@ nav{
   height: 100px;
   font-family: 'Poppins', sans-serif !important;
   color: white;
+  --card-clr: #161922;
+	--body-clr: #010101
+	--primary-clr: #f0bf6a;
+	--heading-clr: #dadada;
+	--text-clr: #767a86;
 }
 
 .nav-link{
@@ -174,11 +179,6 @@ body{
         padding: 1;
       }
     }
-
-
-    
-    
-  
 
   
   
