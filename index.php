@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>ReTinQ Shop</title>
 
    
        
@@ -20,6 +20,9 @@
 <link rel="stylesheet" href="./assets/css/theme.bundle.css" />
 <link rel="stylesheet" href="style.css">
 
+<!-- testimonials -->
+<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+<link rel="stylesheet" href="assets\css\swiper-bundle.min.css">
 
 </head>
 <body>
@@ -338,7 +341,42 @@
         <!--/Third Page-->
 
         <!--Fourth Page-->
-
+        <section class="container-3">
+              <div class="testimonials mySwiper">
+                <div class="testi-content swiper-wrapper">
+                  <!--Slide 1-->
+                  <div class="slide swiper-slide">
+                    <img src="images/test1.jpg" class="image">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero iusto obcaecati quidem necessitatibus dicta natus itaque esse, nobis similique odio adipisci commodi nisi soluta temporibus totam beatae? Dolores, dolore.</p>
+                    <i class="bx bxs-quote-alt-left quote-icon"></i>
+                    <div class="details">
+                      <span class="name">Finell V. Ramos</span>
+                    </div>
+                  </div>
+                  <!--Slide 2-->
+                  <div class="slide swiper-slide">
+                    <img src="images/test2.jpg" class="image">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero iusto obcaecati quidem necessitatibus dicta natus itaque esse, nobis similique odio adipisci commodi nisi soluta temporibus totam beatae? Dolores, dolore.</p>
+                    <i class="bx bxs-quote-alt-left quote-icon"></i>
+                    <div class="details">
+                      <span class="name">Finell V. Ramos</span>
+                    </div>
+                  </div>
+                  <!--Slide 3-->
+                  <div class="slide swiper-slide">
+                    <img src="images/test3.jpg" class="image">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero iusto obcaecati quidem necessitatibus dicta natus itaque esse, nobis similique odio adipisci commodi nisi soluta temporibus totam beatae? Dolores, dolore.</p>
+                    <i class="bx bxs-quote-alt-left quote-icon"></i>
+                    <div class="details">
+                      <span class="name">Finell V. Ramos</span>
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-button-next nav-btn"></div>
+                <div class="swiper-button-prev nav-btn"></div>
+                <div class="swiper-pagination"></div>
+              </div>
+        </section>
         <!--/Fourth Page-->
 
 
@@ -353,8 +391,9 @@
     <!-- Theme JS -->
     <script src="assets\js\theme.bundle.js"></script>
 
-
-
+   <!-- Testimonials JS -->
+   <script src="assets\js\swiper-bundle.min.js"></script>  
+   <script src="assets\js\script.js"></script>         
 
 </body>
 </html>
