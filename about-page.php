@@ -12,6 +12,14 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Gudea:ital,wght@0,400;0,700;1,400&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="./assets/images/favicon/apple-touch-icon.png">
+                            <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon/favicon-32x32.png">
+                            <link rel="icon" type="image/png" sizes="16x16" href="./assets/images/favicon/favicon-16x16.png">
+                            <link rel="mask-icon" href="./assets/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+                            <meta name="msapplication-TileColor" content="#da532c">
+                            <meta name="theme-color" content="#ffffff">
     
     <!-- Bootstrap CSS -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
@@ -51,6 +59,7 @@
             </div>
         </div>
     </div>
+<<<<<<< Updated upstream
 </div>
 
 <div class="container">
@@ -65,6 +74,59 @@
         </div>
     </div>
 </div>
+=======
+    <div class="container">
+                          <div class="row justify-content-center">
+                            <div class="col-12 col-md-6 ">
+                              <!-- Correcting the image path as necessary -->
+                              <img class="wifeypic" src="images/wifepic.jpg">
+                              
+                              <div class="owner-text mt-5">
+                                <h5>Cherry Ann Zaragoza <br>Owner, RetinQ KETO SHOP</h5>
+
+                                                          
+
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+
+                                                      <!-- About Section (Existing content) -->
+                                  <div class="about-section">
+                                      ...
+                                  </div>
+
+                                  <!-- Our Team Section -->
+                                  <div class="our-team-section py-5">
+                                      <div class="container">
+                                          <h2 class="text-center mb-5">Meet Our Team</h2>
+                                          <div class="row">
+                                              <!-- Team Member 1 -->
+                                              <div class="col-md-4 text-center mb-4">
+                                                  <img src="./assets/images/team/member1.jpg" alt="Team Member 1" class="rounded-circle mb-3" style="width: 200px; height: 200px;">
+                                                  <h5>Cherry Ann Zaragoza</h5>
+                                                  <p>Founder & CEO</p>
+                                              </div>
+                                              <!-- Team Member 2 -->
+                                              <div class="col-md-4 text-center mb-4">
+                                                  <img src="./assets/images/team/member2.jpg" alt="Team Member 2" class="rounded-circle mb-3" style="width: 200px; height: 200px;">
+                                                  <h5>John Doe</h5>
+                                                  <p>Head Chef</p>
+                                              </div>
+                                              <!-- Team Member 3 -->
+                                              <div class="col-md-4 text-center mb-4">
+                                                  <img src="./assets/images/team/member3.jpg" alt="Team Member 3" class="rounded-circle mb-3" style="width: 200px; height: 200px;">
+                                                  <h5>Jane Smith</h5>
+                                                  <p>Marketing Manager</p>
+                                              </div>
+                                          </div>
+                                      </div>
+                                  </div>
+
+                        
+                        
+
+>>>>>>> Stashed changes
 
 <!-- Bootstrap JS and jQuery -->
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
