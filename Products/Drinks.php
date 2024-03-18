@@ -91,7 +91,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto: Milktea</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Keto: Milktea</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 369</span></p>
                         </div>
@@ -114,7 +114,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Sugar-Free Sago't Gulaman</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Sugar-Free Sago't Gulaman</a>
                             <small class="text-muted d-block">250ml</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">P129</span></p>
                         </div>

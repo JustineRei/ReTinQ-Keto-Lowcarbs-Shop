@@ -90,7 +90,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Perfect Match: #pimientobe Cheese Pimiento Spread</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Perfect Match: #pimientobe Cheese Pimiento Spread</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 369</span></p>
                         </div>
@@ -113,7 +113,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="./product.html">Perfect Match: #mycheesybae Cheesy Bacon & Herbs Spread</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Perfect Match: #mycheesybae Cheesy Bacon & Herbs Spread</a>
                             <small class="text-muted d-block">asdasdasd</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 199 & 299</span></p>
                         </div>
@@ -136,7 +136,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="./product.html">Perfect Match: #whyme Chilli Sauce</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Perfect Match: #whyme Chilli Sauce</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 349</span></p>
                         </div>
@@ -159,7 +159,7 @@
                                 </div>
                         </div>
                         <div class="card-body ">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">perfect match: #espresslove Chocolate Espresso</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">perfect match: #espresslove Chocolate Espresso</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 279</span></p>
                         </div>
@@ -182,7 +182,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">perfect match: #toffeelgood Low-Carb Choco Toffee Spread</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">perfect match: #toffeelgood Low-Carb Choco Toffee Spread</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 299</span></p>
                         </div>
@@ -205,7 +205,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">perfect match: #cmonlechon All Around Sugar-Free Lechon Sauce</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">perfect match: #cmonlechon All Around Sugar-Free Lechon Sauce</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 369</span></p>
                         </div>
@@ -228,7 +228,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Coco Aminos Soy Sauce</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Coco Aminos Soy Sauce</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 350</span></p>
                         </div>
@@ -251,7 +251,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Perfect Match: #betterchogether Dark Chocolate Peanut Butter</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Perfect Match: #betterchogether Dark Chocolate Peanut Butter</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 299</span></p>
                         </div>
@@ -274,7 +274,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Perfect Match: My Gravy Low-Carb Gravy Mix</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Perfect Match: My Gravy Low-Carb Gravy Mix</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 89</span></p>
                         </div>
@@ -297,7 +297,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Perfect Match: #pimientobe Nacho Cheesy Pimiento</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Perfect Match: #pimientobe Nacho Cheesy Pimiento</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 299</span></p>
                         </div>
@@ -320,7 +320,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Perfect Match: #Nutflix&Chill Peanut Butter Crunch</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Perfect Match: #Nutflix&Chill Peanut Butter Crunch</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 299</span></p>
                         </div>
@@ -343,7 +343,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Peanut Buttercup</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Peanut Buttercup</a>
                             <small class="text-muted d-block">size: Puppyluv & Trueluv</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 199 & 299</span></p>
                         </div>
@@ -366,7 +366,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Perfect Match: #pinasroadhouse Smokey Sweet & Tangy Salad Dressing</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Perfect Match: #pinasroadhouse Smokey Sweet & Tangy Salad Dressing</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 350</span></p>
                         </div>
@@ -389,7 +389,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Perfect Match: #apizzamyheart Cheesy Pepperoni Pizza Delight</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Perfect Match: #apizzamyheart Cheesy Pepperoni Pizza Delight</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 299</span></p>
                         </div>
@@ -412,7 +412,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Perfect Match: #apizzamyheart Low-Carb Pizza Pepperoni Spread</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Perfect Match: #apizzamyheart Low-Carb Pizza Pepperoni Spread</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 299</span></p>
                         </div>
@@ -435,7 +435,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Perfrct Match: Ketostitos Sugar-Free Salsa Dip</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Perfrct Match: Ketostitos Sugar-Free Salsa Dip</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 299</span></p>
                         </div>
@@ -458,7 +458,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto Kusina: Sugar-Free Barbecue Sauce</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Keto Kusina: Sugar-Free Barbecue Sauce</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 299</span></p>
                         </div>
@@ -481,7 +481,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto Kusina: Sugar-Free Ketchup</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Keto Kusina: Sugar-Free Ketchup</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 299</span></p>
                         </div>
@@ -504,7 +504,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Greendahan: Sugar-Free Meringue</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Greendahan: Sugar-Free Meringue</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 299</span></p>
                         </div>
@@ -527,7 +527,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Low-Carb Savor Chilimansi</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Low-Carb Savor Chilimansi</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 199</span></p>
                         </div>
@@ -550,7 +550,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Chocolate Spread</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Chocolate Spread</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 199</span></p>
                         </div>
@@ -573,7 +573,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Roasted Peanut Butter Spread</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Roasted Peanut Butter Spread</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 199</span></p>
                         </div>

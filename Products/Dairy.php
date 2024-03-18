@@ -91,7 +91,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto Ice Cream: Almond Flavor</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Keto Ice Cream: Almond Flavor</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 369</span></p>
                         </div>
@@ -114,7 +114,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="./product.html">Keto Ice Cream: Avocado Flavor</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Keto Ice Cream: Avocado Flavor</a>
                             <small class="text-muted d-block">Sizes: Puppyluv & Trueluv</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 199 & 299</span></p>
                         </div>
@@ -137,7 +137,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="./product.html">Keto Ice Cream: Cheese Flavor</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Keto Ice Cream: Cheese Flavor</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 349</span></p>
                         </div>
@@ -160,7 +160,7 @@
                                 </div>
                         </div>
                         <div class="card-body ">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto Ice Cream: Chocolate Flavor</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Keto Ice Cream: Chocolate Flavor</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 279</span></p>
                         </div>
@@ -183,7 +183,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto Ice Cream: Chocolate Flavor</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Keto Ice Cream: Chocolate Flavor</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 299</span></p>
                         </div>
@@ -206,7 +206,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto Kusino: Kpops Keto-Friendly Ice Cream Pops Dipped in Dark Chocolate</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Keto Kusino: Kpops Keto-Friendly Ice Cream Pops Dipped in Dark Chocolate</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 369</span></p>
                         </div>
@@ -229,7 +229,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto: Lecheflan</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Keto: Lecheflan</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 140</span></p>
                         </div>
@@ -252,7 +252,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto Ice Cream: Matcha Flavor</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Keto Ice Cream: Matcha Flavor</a>
                             <small class="text-muted d-block">200ml<br>600ml</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">P239-P639</span></p>
                         </div>
@@ -275,7 +275,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto Ice Cream: Strawberry Flavor</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Keto Ice Cream: Strawberry Flavor</a>
                             <small class="text-muted d-block">200ml<br>600ml<br>1000ml</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">P329-P639</span></p>
                         </div>
@@ -298,7 +298,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto Ice Cream: Ube Flavor</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Keto Ice Cream: Ube Flavor</a>
                             <small class="text-muted d-block">200ml<br>600ml<br>1000ml</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">P289-P1,139</span></p>
                         </div>
@@ -321,7 +321,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto Ice Cream: Ube Cheese Flavor</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Keto Ice Cream: Ube Cheese Flavor</a>
                             <small class="text-muted d-block">200ml<br>600ml<br>1000ml</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">P229-P939</span></p>
                         </div>
@@ -344,7 +344,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto Ice Cream: vanilla</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Keto Ice Cream: vanilla</a>
                             <small class="text-muted d-block">200ml<br>600ml<br>1000ml</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">P229-P939</span></p>
                         </div>
@@ -367,7 +367,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto: Roasted Almonds</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Keto: Roasted Almonds</a>
                             <small class="text-muted d-block">10s<br>20s</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">P199-P399</span></p>
                         </div>
@@ -390,7 +390,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Sugar-Free Chocolate bonbons</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Sugar-Free Chocolate bonbons</a>
                             <small class="text-muted d-block">10s<br>20s</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">P199-P399</span></p>
                         </div>
@@ -413,7 +413,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Sugar-Free Chocolate Chips</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Sugar-Free Chocolate Chips</a>
                             <small class="text-muted d-block">10s<br>20s</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">P199-P399</span></p>
                         </div>
@@ -436,7 +436,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Sugar-Free Chocolate Mint</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Sugar-Free Chocolate Mint</a>
                             <small class="text-muted d-block">10s<br>20s</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">P199-P399</span></p>
                         </div>
@@ -459,7 +459,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Sugar-Free White Chocolate</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Sugar-Free White Chocolate</a>
                             <small class="text-muted d-block">10s<br>20s</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">P199-P399</span></p>
                         </div>
