@@ -90,7 +90,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Meat-Hooray: Korean Beef BBQ</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Meat-Hooray: Korean Beef BBQ</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 369</span></p>
                         </div>
@@ -113,7 +113,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="./product.html">Meat-Hooray: Korean Chicken BBQ</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Meat-Hooray: Korean Chicken BBQ</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 329</span></p>
                         </div>
@@ -136,7 +136,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="./product.html">Meat-Hooray: Korean Pork BBQ</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Meat-Hooray: Korean Pork BBQ</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 349</span></p>
                         </div>
@@ -159,7 +159,7 @@
                                 </div>
                         </div>
                         <div class="card-body ">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Meat-Hooray: Savoury Chicken Tapa</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Meat-Hooray: Savoury Chicken Tapa</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 279</span></p>
                         </div>
@@ -182,7 +182,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Meat-Hooray: Savoury Vigan Pork Longganisa</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Meat-Hooray: Savoury Vigan Pork Longganisa</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 299</span></p>
                         </div>
@@ -205,7 +205,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Meat-Hooray: Pork Tocino</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Meat-Hooray: Pork Tocino</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 369</span></p>
                         </div>
@@ -228,7 +228,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Meat-Hooray: Savoury Pork Sisig</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Meat-Hooray: Savoury Pork Sisig</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 350</span></p>
                         </div>
@@ -251,7 +251,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Meat-Hooray: Savoury Longganisa Burger</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Meat-Hooray: Savoury Longganisa Burger</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 299</span></p>
                         </div>
@@ -274,7 +274,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Healthy Mama's Kitchen</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Healthy Mama's Kitchen</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 299</span></p>
                         </div>
@@ -297,7 +297,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto: Corn Dogs</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Keto: Corn Dogs</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 299</span></p>
                         </div>
@@ -320,7 +320,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Healthy Mama's Kitchen</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Healthy Mama's Kitchen</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 299</span></p>
                         </div>
@@ -343,7 +343,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto: Japanese Siomai Ready to Steam</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Keto: Japanese Siomai Ready to Steam</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 299</span></p>
                         </div>
@@ -366,7 +366,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Hungarian</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Hungarian</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 299</span></p>
                         </div>
@@ -389,7 +389,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto: Chicken Balls</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Keto: Chicken Balls</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 299</span></p>
                         </div>
@@ -412,7 +412,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto: Mozzarella Cheese Balls</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Keto: Mozzarella Cheese Balls</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 299</span></p>
                         </div>
@@ -435,7 +435,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto: Burger Patties</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Keto: Burger Patties</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 299</span></p>
                         </div>
@@ -458,7 +458,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Turkey Bacon</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Turkey Bacon</a>
                             <small class="text-muted d-block">Lorem ipsum lorem ipsum</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">PHP 299</span></p>
                         </div>

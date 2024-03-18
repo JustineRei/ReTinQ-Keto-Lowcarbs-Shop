@@ -482,7 +482,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Triple Chocolate</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Triple Chocolate</a>
                             <small class="text-muted d-block">Lorem ipsum dolor sit.</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">P720</span></p>
                         </div>
@@ -505,7 +505,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Perfect Match: Wannadate Pancake</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Perfect Match: Wannadate Pancake</a>
                             <small class="text-muted d-block">Lorem ipsum dolor sit.</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">P720</span></p>
                         </div>

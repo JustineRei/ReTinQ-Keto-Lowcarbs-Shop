@@ -92,7 +92,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto: Low-Carb Instant Pancit Canton Chiligarlic Pack</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Keto: Low-Carb Instant Pancit Canton Chiligarlic Pack</a>
                             <small class="text-muted d-block">10s<br>20s</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">P129</span></p>
                         </div>
@@ -115,7 +115,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto: Low-Carb Instant Pancit Canton Chilimansi Pacl</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Keto: Low-Carb Instant Pancit Canton Chilimansi Pacl</a>
                             <small class="text-muted d-block">10s<br>20s</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">P129</span></p>
                         </div>
@@ -138,7 +138,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto: Low-Carb Instant Pancit Canton Classic Pack</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Keto: Low-Carb Instant Pancit Canton Classic Pack</a>
                             <small class="text-muted d-block">10s<br>20s</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">P129</span></p>
                         </div>
@@ -161,7 +161,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto: Classic Caramel Almon Cecreal</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Keto: Classic Caramel Almon Cecreal</a>
                             <small class="text-muted d-block">10s<br>20s</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">P129</span></p>
                         </div>
@@ -184,7 +184,7 @@
                                 </div>
                         </div>
                         <div class="card-body">
-                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.html">Keto: Apple Cinnamon Almon Cecreal</a>
+                            <a class="text-decoration-none link-cover fonts-poppins" href="Korean_Beef_BBQ.php">Keto: Apple Cinnamon Almon Cecreal</a>
                             <small class="text-muted d-block">10s<br>20s</small>
                                     <p class="mt-2 mb-0 small"><span class="text-black">P129</span></p>
                         </div>
