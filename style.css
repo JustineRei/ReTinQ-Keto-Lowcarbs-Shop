@@ -18,6 +18,7 @@ nav{
 	--text-clr: #767a86;
 }
 
+
 .nav-link{
   color: white !important;
   background-color: #80D671 !important;
@@ -118,7 +119,7 @@ body{
 
 
   .container-2{
-    height: 100vh;
+    height: 90vh;
     background: url('images/bg1.png');
     background-repeat: no-repeat;
     background-size: cover;
@@ -188,6 +189,7 @@ h3,p{
       outline: none !important;
   }
   .testimonial{
+      background-color: #161922;
       text-align: center;
       color: #F2EFE8;
       margin:50px 30px;
@@ -279,3 +281,8 @@ h3,p{
       content: "\f061";
   }
   
+  .container-4{
+    background-image: url('assets\svgs\landing.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
