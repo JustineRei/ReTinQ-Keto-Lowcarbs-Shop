@@ -21,8 +21,9 @@
 <link rel="stylesheet" href="style.css">
 
 <!-- testimonials -->
-<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-<link rel="stylesheet" href="assets\css\swiper-bundle.min.css">
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
 
 </head>
 <body>
@@ -341,42 +342,59 @@
         <!--/Third Page-->
 
         <!--Fourth Page-->
-        <section class="container-3">
-              <div class="testimonials mySwiper">
-                <div class="testi-content swiper-wrapper">
-                  <!--Slide 1-->
-                  <div class="slide swiper-slide">
-                    <img src="images/test1.jpg" class="image">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero iusto obcaecati quidem necessitatibus dicta natus itaque esse, nobis similique odio adipisci commodi nisi soluta temporibus totam beatae? Dolores, dolore.</p>
-                    <i class="bx bxs-quote-alt-left quote-icon"></i>
-                    <div class="details">
-                      <span class="name">Finell V. Ramos</span>
+        <div class="container">
+    <div class="row">
+        <div class="col-md-offset-2 col-md-8">
+            <div id="testimonial-slider" class="owl-carousel">
+                <div class="testimonial">
+                    <div class="pic">
+                        <img src="images\test1.jpg">
                     </div>
-                  </div>
-                  <!--Slide 2-->
-                  <div class="slide swiper-slide">
-                    <img src="images/test2.jpg" class="image">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero iusto obcaecati quidem necessitatibus dicta natus itaque esse, nobis similique odio adipisci commodi nisi soluta temporibus totam beatae? Dolores, dolore.</p>
-                    <i class="bx bxs-quote-alt-left quote-icon"></i>
-                    <div class="details">
-                      <span class="name">Finell V. Ramos</span>
+                    <div class="testimonial-content">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet eum excepturi incidunt
+                            laudantium nesciunt omnis, provident repudiandae rerum sed! Amet blanditiis eaque eu!
+                        </p>
                     </div>
-                  </div>
-                  <!--Slide 3-->
-                  <div class="slide swiper-slide">
-                    <img src="images/test3.jpg" class="image">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero iusto obcaecati quidem necessitatibus dicta natus itaque esse, nobis similique odio adipisci commodi nisi soluta temporibus totam beatae? Dolores, dolore.</p>
-                    <i class="bx bxs-quote-alt-left quote-icon"></i>
-                    <div class="details">
-                      <span class="name">Finell V. Ramos</span>
-                    </div>
-                  </div>
+                    <h3 class="testimonial-title">
+                        <a href="#">Kelli</a>
+                        <small>- Web Developer</small>
+                    </h3>
                 </div>
-                <div class="swiper-button-next nav-btn"></div>
-                <div class="swiper-button-prev nav-btn"></div>
-                <div class="swiper-pagination"></div>
-              </div>
-        </section>
+
+                <div class="testimonial">
+                    <div class="pic">
+                        <img src="images\test2.jpg">
+                    </div>
+                    <div class="testimonial-content">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet eum excepturi incidunt
+                            laudantium nesciunt omnis, provident repudiandae rerum sed! Amet blanditiis eaque eu
+                        </p>
+                    </div>
+                    <h3 class="testimonial-title">
+                        <a href="#">Peter</a>
+                        <small>- Web Developer</small>
+                    </h3>
+                </div>
+
+                <div class="testimonial">
+                    <div class="pic">
+                        <img src="images\test3.jpg">
+                    </div>
+                    <div class="testimonial-content">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet eum excepturi incidunt
+                            laudantium nesciunt omnis, provident repudiandae rerum sed! Amet blanditiis eaque eum
+                            odit repellendus!
+                        </p>
+                    </div>
+                    <h3 class="testimonial-title">
+                        <a href="#">Sally</a>
+                        <small>- Web Developer</small>
+                    </h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>     
         <!--/Fourth Page-->
 
 
@@ -392,8 +410,23 @@
     <script src="assets\js\theme.bundle.js"></script>
 
    <!-- Testimonials JS -->
-   <script src="assets\js\swiper-bundle.min.js"></script>  
-   <script src="assets\js\script.js"></script>         
+   <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $('#testimonial-slider').owlCarousel({
+                items:1,
+                itemsDesktop:[1000,1],
+                itemsDesktopSmall:[979,1],
+                itemsTablet:[768,1],
+                pagination: false,
+                navigation:true,
+                navigationText:["",""],
+                slideSpeed:1000,
+                autoPlay:true
+            });
+        });
+    </script>       
 
 </body>
 </html>
