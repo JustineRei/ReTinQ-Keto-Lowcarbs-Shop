@@ -150,6 +150,60 @@
   </nav>
   <!-- / Navbar-->    <!-- / Navbar-->
          <!-- Page Content Goes Here -->
+
+        <!-- landing -->
+        <div class="landing" >
+          <div class="main-image__landing">
+            <img src="images/image-one.png" class="img-bounce">
+          </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-xl-12">
+              <div class="main-content__landing">
+                <h4 class="sub-title__landing">Select Keto Friendly Products</h4>
+                <h2 class="main-title__landing">
+                  Choose the 
+                  <br> healthy foods.  
+                </h2>
+                <div class="main-link__landing">
+                  <a href="#" class="thm-btn learn-btn__landing">Learn More</a>
+                  <a href="#" class="thm-btn shop-btn__landing">Shop Now</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        </div>
+
+        <!-- landing -->
+         
+
+      <!--UNLI BANNER-->
+      <div class="logos">
+        <div class="logos-slide">
+          <img src="images\banner1.png" />
+          <img src="images\banner2.png" />
+          <img src="images\banner3.png" />
+          <img src="images\banner1.png" />
+          <img src="images\banner2.png" />
+          <img src="images\banner3.png" />
+          <img src="images\banner1.png" />
+        </div>
+
+        <div class="logos-slide">
+          <img src="images\banner2.png" />
+          <img src="images\banner1.png" />
+          <img src="images\banner3.png" />
+          <img src="images\banner1.png" />
+          <img src="images\banner2.png" />
+          <img src="images\banner3.png" />
+          <img src="images\banner1.png" />
+        </div>
+      </div>
+      <!--/UNLI BANNER-->
+
+
+
         <!-- / Top banner -->
         <section class="vh-75 vh-lg-60 container-fluid rounded overflow- mt-4" data-aos="fade-in">
             <!-- Swiper Info -->
@@ -261,29 +315,7 @@
             </div>
             <!-- / Swiper Info-->        </section>
         <!--/ Top Banner-->
-<!--UNLI BANNER-->
-<div class="logos">
-  <div class="logos-slide">
-    <img src="images\benner.png" />
-    <img src="images\benner2.png" />
-    <img src="images\benner3.png" />
-    <img src="images\benner.png" />
-    <img src="images\benner2.png" />
-    <img src="images\benner3.png" />
-    <img src="images\benner1.png" />
-  </div>
 
-  <div class="logos-slide">
-    <img src="images\benner.png" />
-    <img src="images\benner2.png" />
-    <img src="images\benner3.png" />
-    <img src="images\benner.png" />
-    <img src="images\benner2.png" />
-    <img src="images\benner3.png" />
-    <img src="images\benner.png" />
-  </div>
-</div>
-<!--/UNLI BANNER-->
         <!--Second Page-->
       
         <div class="container">
@@ -297,9 +329,9 @@
         <!--/Second Page-->
 
         <!--Third Page-->
-        <div class="container-2 img-fluid">
-                <h4 class="d-flex justify-content-center mt-1">Our Categories</h4>
-                <h1 class="d-flex justify-content-center text-center fw-bold mt-3">What we're offering to <br> customers</h1>
+        <div class="container-2">
+                <h4 class="sub-title__container-2 d-flex justify-content-center mt-1">Our Categories</h4>
+                <h1 class="main-title__container-2 d-flex justify-content-center mt-3">What we're offering to <br> customers</h1>
                 <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-2 mt-3 d-flex justify-content-center">
                   <div class="cards col shadow-lg m-4 mb-5 bg-white rounded" style="width:20.7rem;">
                         <div class="card" style="width: 20rem;">
@@ -343,6 +375,10 @@
         <!--/Third Page-->
 
         <!--Fourth Page-->
+
+
+
+        
         <div class="fourth-page">
         <div class="container-4 container ">
     <div class="row">
