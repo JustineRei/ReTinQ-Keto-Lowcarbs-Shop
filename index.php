@@ -264,23 +264,23 @@
 <!--UNLI BANNER-->
 <div class="logos">
   <div class="logos-slide">
-    <img src="images\banner11.png" />
-    <img src="images\banner22.png" />
-    <img src="images\banner33.png" />
-    <img src="images\banner11.png" />
-    <img src="images\banner22.png" />
-    <img src="images\banner33.png" />
-    <img src="images\banner11.png" />
+    <img src="images\benner.png" />
+    <img src="images\benner2.png" />
+    <img src="images\benner3.png" />
+    <img src="images\benner.png" />
+    <img src="images\benner2.png" />
+    <img src="images\benner3.png" />
+    <img src="images\benner1.png" />
   </div>
 
   <div class="logos-slide">
-    <img src="images\banner11.png" />
-    <img src="images\banner22.png" />
-    <img src="images\banner33.png" />
-    <img src="images\banner11.png" />
-    <img src="images\banner22.png" />
-    <img src="images\banner33.png" />
-    <img src="images\banner11.png" />
+    <img src="images\benner.png" />
+    <img src="images\benner2.png" />
+    <img src="images\benner3.png" />
+    <img src="images\benner.png" />
+    <img src="images\benner2.png" />
+    <img src="images\benner3.png" />
+    <img src="images\benner.png" />
   </div>
 </div>
 <!--/UNLI BANNER-->
@@ -298,20 +298,21 @@
 
         <!--Third Page-->
         <div class="container-2 img-fluid">
-                <h1 class="d-flex justify-content-center mt-1">Categories</h1>
-                <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-2 d-flex justify-content-center">
+                <h4 class="d-flex justify-content-center mt-1">Our Categories</h4>
+                <h1 class="d-flex justify-content-center text-center fw-bold mt-3">What we're offering to <br> customers</h1>
+                <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-2 mt-3 d-flex justify-content-center">
                   <div class="cards col shadow-lg m-4 mb-5 bg-white rounded" style="width:20.7rem;">
                         <div class="card" style="width: 20rem;">
                         <div class="text-center">
-                        <img src="images\bread.png" class="card-img-top img-fluid">
+                        <img src="images\bread1.png" class="card-img-top img-fluid">
                         </div>
                         <div class="card-body">
-                          <p class="card-text text-center h2">Bread and Pastries</p>
+                          <p class="card-text text-center h3">Bread and Pastries</p>
                       </div></div>
                   </div>
                   <div class="cardsg col shadow-lg m-4 mb-5 bg-white rounded" style="width: 20.7rem;">
                         <div class="card" style="width: 20rem;">
-                            <img src="images\general-goods.png" class="card-img-top img-fluid" alt="...">
+                            <img src="images\generel-goods1.png" class="card-img-top img-fluid" alt="...">
                             <div class="card-body">
                               <p class="card-text text-center h2">General Goods</p>
                             </div>
@@ -320,7 +321,7 @@
                   </div>
                   <div class="cardss col shadow-lg m-4 mb-5 bg-white rounded" style="width: 20.7rem;">
                         <div class="card" style="width: 20rem;">
-                            <img  src="images\snacks.png" class="card-img-top img-fluid" alt="...">
+                            <img  src="images\snacks1.png" class="card-img-top img-fluid" alt="...">
                             <div class="card-body">
                               <p class="card-text text-center h2">Snacks</p>
                             </div>
@@ -329,7 +330,7 @@
                   </div>
                   <div class="cardsm col shadow-lg m-4 mb-5 bg-white rounded" style="width: 20.7rem;">
                         <div class="card" style="width: 20rem;">
-                            <img src="images\miscellanous.png" class="card-img-top img-fluid" alt="...">
+                            <img src="images/miscellaneous1.png" class="card-img-top img-fluid" alt="...">
                             <div class="card-body">
                               <p class="card-text text-center h2">Miscellaneous</p>
                             </div>
@@ -342,6 +343,7 @@
         <!--/Third Page-->
 
         <!--Fourth Page-->
+        <div class="fourth-page">
         <div class="container-4 container ">
     <div class="row">
         <div class="col-md-offset-2 col-md-12">
@@ -394,7 +396,7 @@
             </div>
         </div>
     </div>
-</div>     
+</div>     </div>
         <!--/Fourth Page-->
 
 
