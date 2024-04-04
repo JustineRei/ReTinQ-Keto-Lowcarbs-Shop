@@ -25,6 +25,8 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
 
+
+
 </head>
 <body>
         <!-- Navbar -->
@@ -329,49 +331,84 @@
         <!--/Second Page-->
 
         <!--Third Page-->
-        <div class="container-2">
+        <section class="categories-one" id="services">
+            <div class="container">
                 <h4 class="sub-title__container-2 d-flex justify-content-center mt-1">Our Categories</h4>
                 <h1 class="main-title__container-2 d-flex justify-content-center mt-3">What we're offering to <br> customers</h1>
-                <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-2 mt-3 d-flex justify-content-center">
-                  <div class="cards col shadow-lg m-4 mb-5 bg-white rounded" style="width:20.7rem;">
-                        <div class="card" style="width: 20rem;">
-                        <div class="text-center">
-                        <img src="images\bread1.png" class="card-img-top img-fluid">
+                <div class="row">
+                    <!--Categories One Single Start-->
+                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp animated" data-wow-delay="100ms" style="visibility: visible; animation-delay: 100ms; animation-name: fadeInUp;">
+                        <div class="categories-one__single categories-one__single-1">
+                            <div class="categories-one__img-box">
+                                <div class="categories-one__img">
+                                    <img src="images/generel-goods1.png" alt="">
+                                </div>
+                            </div>
+                            <div class="categories-one__content">
+                                <div class="categories-one__content-shape-1" style="background-image: url(images/categ-bg.jpg);">
+                                </div>
+                                <h3 class="categories-one__title"><a href="agriculture-services.html">General Goods</a>
+                                </h3>
+                            
+                            </div>
+                            
                         </div>
-                        <div class="card-body">
-                          <p class="card-text text-center h3">Bread and Pastries</p>
-                      </div></div>
-                  </div>
-                  <div class="cardsg col shadow-lg m-4 mb-5 bg-white rounded" style="width: 20.7rem;">
-                        <div class="card" style="width: 20rem;">
-                            <img src="images\generel-goods1.png" class="card-img-top img-fluid" alt="...">
-                            <div class="card-body">
-                              <p class="card-text text-center h2">General Goods</p>
+                    </div>
+                    <!--Categories One Single End-->
+                    <!--Categories One Single Start-->
+                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp animated" data-wow-delay="200ms" style="visibility: visible; animation-delay: 200ms; animation-name: fadeInUp;">
+                        <div class="categories-one__single categories-one__single-2">
+                            <div class="categories-one__img-box">
+                                <div class="categories-one__img">
+                                    <img src="assets/images/resources/categories-one-img-2.jpg" alt="">
+                                </div>
                             </div>
-                          </div>
-                    
-                  </div>
-                  <div class="cardss col shadow-lg m-4 mb-5 bg-white rounded" style="width: 20.7rem;">
-                        <div class="card" style="width: 20rem;">
-                            <img  src="images\snacks1.png" class="card-img-top img-fluid" alt="...">
-                            <div class="card-body">
-                              <p class="card-text text-center h2">Snacks</p>
-                            </div>
-                          </div>
-                    
-                  </div>
-                  <div class="cardsm col shadow-lg m-4 mb-5 bg-white rounded" style="width: 20.7rem;">
-                        <div class="card" style="width: 20rem;">
-                            <img src="images/miscellaneous1.png" class="card-img-top img-fluid" alt="...">
-                            <div class="card-body">
-                              <p class="card-text text-center h2">Miscellaneous</p>
-                            </div>
-                          </div>
+                            <div class="categories-one__content">
+                                <div class="categories-one__content-shape-1" style="background-image: url(assets/images/shapes/categories-one-content-shape-2.png);">
+                                </div>
+                                <h3 class="categories-one__title"><a href="farming-products.html">Bread & Pastries</a></h3>
                         </div>
-                  </div>
-                  </div>
+            </div>
+                    </div>
+                    <!--Categories One Single End-->
+                    <!--Categories One Single Start-->
+                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp animated" data-wow-delay="300ms" style="visibility: visible; animation-delay: 300ms; animation-name: fadeInUp;">
+                        <div class="categories-one__single categories-one__single-3">
+                            <div class="categories-one__img-box">
+                                <div class="categories-one__img">
+                                    <img src="assets/images/resources/categories-one-img-3.jpg" alt="">
+                                </div>
+                            </div>
+                            <div class="categories-one__content">
+                                <div class="categories-one__content-shape-1" style="background-image: url(assets/images/shapes/categories-one-content-shape-3.png);">
+                                </div>
+                                <h3 class="categories-one__title"><a href="organic-services.html">Snacks</a></h3>
+                            </div>
+                    
+                        </div>
+                    </div>
+                    <!--Categories One Single End-->
+                    <!--Categories One Single Start-->
+                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp animated" data-wow-delay="400ms" style="visibility: visible; animation-delay: 400ms; animation-name: fadeInUp;">
+                        <div class="categories-one__single categories-one__single-4">
+                            <div class="categories-one__img-box">
+                                <div class="categories-one__img">
+                                    <img src="assets/images/resources/categories-one-img-4.jpg" alt="">
+                                </div>
+                            </div>
+                            <div class="categories-one__content">
+                                <div class="categories-one__content-shape-1" style="background-image: url(assets/images/shapes/categories-one-content-shape-4.png);">
+                                </div>
+                                <h3 class="categories-one__title"><a href="delivery-services.html">Miscellaneous</a>
+                                </h3>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <!--Categories One Single End-->
                 </div>
-              </div>
+            </div>
+        </section>
         <!--/Third Page-->
 
         <!--Fourth Page-->
