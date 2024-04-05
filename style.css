@@ -288,31 +288,7 @@ h3,p{
     z-index: 2;
   }
  
-  @media only screen and (min-width: 350px){
-    .fourth-page{
-      margin-top: 110vh;
-    }
-  }
-  @media only screen and (min-width: 750px){
-    .fourth-page{
-      margin-top: 30vh;
-    }
-  }
-  @media only screen and (min-width: 900px){
-    .fourth-page{
-      margin-top: 30vh;
-    }
-  }
-  @media only screen and (min-width: 1505px){
-    .fourth-page{
-      margin-top: 0vh;
-    }
-  }
-  @media only screen and (min-width: 1920px){
-    .fourth-page{
-      margin-top: 0;
-    }
-  }
+ 
   .home_text{
     color: #198754;
   }
